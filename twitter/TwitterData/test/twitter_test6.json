@@ -1,0 +1,1703 @@
+{
+    "search_metadata": {
+        "completed_in": 0.049,
+        "count": 10,
+        "max_id": 1107190719750512641,
+        "max_id_str": "1107190719750512641",
+        "next_results": "?max_id=1106899028170760192&q=vasaloppet&count=10&include_entities=1",
+        "query": "vasaloppet",
+        "refresh_url": "?since_id=1107190719750512641&q=vasaloppet&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 08:03:32 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/ibBq2UYfdI",
+                        "expanded_url": "https://twitter.com/lagohr/status/1107190719750512641/photo/1",
+                        "id": 1107190701148831749,
+                        "id_str": "1107190701148831749",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/D12IE5iXgAUTwhz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D12IE5iXgAUTwhz.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 216,
+                                "resize": "fit",
+                                "w": 480
+                            },
+                            "medium": {
+                                "h": 216,
+                                "resize": "fit",
+                                "w": 480
+                            },
+                            "small": {
+                                "h": 216,
+                                "resize": "fit",
+                                "w": 480
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/ibBq2UYfdI"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/ibBq2UYfdI",
+                        "expanded_url": "https://twitter.com/lagohr/status/1107190719750512641/photo/1",
+                        "id": 1107190701148831749,
+                        "id_str": "1107190701148831749",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/D12IE5iXgAUTwhz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D12IE5iXgAUTwhz.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 216,
+                                "resize": "fit",
+                                "w": 480
+                            },
+                            "medium": {
+                                "h": 216,
+                                "resize": "fit",
+                                "w": 480
+                            },
+                            "small": {
+                                "h": 216,
+                                "resize": "fit",
+                                "w": 480
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "animated_gif",
+                        "url": "https://t.co/ibBq2UYfdI",
+                        "video_info": {
+                            "aspect_ratio": [
+                                20,
+                                9
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/D12IE5iXgAUTwhz.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 6,
+            "favorited": false,
+            "geo": null,
+            "id": 1107190719750512641,
+            "id_str": "1107190719750512641",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Vasaloppet 2020\nJag är i den https://t.co/ibBq2UYfdI",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Aug 17 15:57:12 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Father, Open Source guy, Triathlete. Software engineer @VWGroup. Likes working in agile environments. Opinions entirely my own. Speaking sarcastic fluently",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "github.com/elgohr",
+                                "expanded_url": "https://github.com/elgohr",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/9pm2XWCaFv"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 1580,
+                "follow_request_sent": false,
+                "followers_count": 113,
+                "following": false,
+                "friends_count": 188,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 356934839,
+                "id_str": "356934839",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "de",
+                "listed_count": 15,
+                "location": "Wolfsburg, Deutschland",
+                "name": "Lars Gohr",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/356934839/1502828577",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1007578291446996992/SYw0XAKx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007578291446996992/SYw0XAKx_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "lagohr",
+                "statuses_count": 1985,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/9pm2XWCaFv",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 07:45:55 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            43,
+                            52
+                        ],
+                        "text": "twittski"
+                    },
+                    {
+                        "indices": [
+                            53,
+                            62
+                        ],
+                        "text": "långlopp"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107186286023139328,
+            "id_str": "1107186286023139328",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Om 15 min öppnar anmälan till Vasaloppet 👊 #twittski #långlopp",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Sep 05 13:40:45 +0000 2012",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "\"I am kept alive by movement. When I am immobile, I risk all that I am. Even my sanity.\"",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 7395,
+                "follow_request_sent": false,
+                "followers_count": 192,
+                "following": false,
+                "friends_count": 394,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 804621234,
+                "id_str": "804621234",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 14,
+                "location": "",
+                "name": "karlslund",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/804621234/1419607927",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1101971736948625408/ts2t0HRi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101971736948625408/ts2t0HRi_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "pcd193",
+                "statuses_count": 13680,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 07:10:32 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/8jX31BobQQ",
+                        "expanded_url": "https://twitter.com/vasaloppet/status/1107177379166932992/photo/1",
+                        "id": 1107177373538140160,
+                        "id_str": "1107177373538140160",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1179IUXQAA_SoT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1179IUXQAA_SoT.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 315,
+                                "resize": "fit",
+                                "w": 851
+                            },
+                            "medium": {
+                                "h": 315,
+                                "resize": "fit",
+                                "w": 851
+                            },
+                            "small": {
+                                "h": 252,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/8jX31BobQQ"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/8jX31BobQQ",
+                        "expanded_url": "https://twitter.com/vasaloppet/status/1107177379166932992/photo/1",
+                        "id": 1107177373538140160,
+                        "id_str": "1107177373538140160",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1179IUXQAA_SoT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1179IUXQAA_SoT.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 315,
+                                "resize": "fit",
+                                "w": 851
+                            },
+                            "medium": {
+                                "h": 315,
+                                "resize": "fit",
+                                "w": 851
+                            },
+                            "small": {
+                                "h": 252,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/8jX31BobQQ"
+                    }
+                ]
+            },
+            "favorite_count": 6,
+            "favorited": false,
+            "geo": null,
+            "id": 1107177379166932992,
+            "id_str": "1107177379166932992",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "I dag, söndag 17 mars, öppnar vi för anmälningar till Vasaloppets vintervecka 2020. Varmt välkomna åter! 💪🏻❤️👍🏻 https://t.co/8jX31BobQQ",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Feb 20 14:11:37 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Official account. NPO Vasaloppet is the world’s biggest organizer of sport events - skiing, biking and running. A motivator for public health since 1922.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "vasaloppet.se",
+                                "expanded_url": "http://www.vasaloppet.se",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/9DgtxVv53b"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 347,
+                "follow_request_sent": false,
+                "followers_count": 2852,
+                "following": false,
+                "friends_count": 170,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1201175826,
+                "id_str": "1201175826",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 27,
+                "location": "Sälen/Mora",
+                "name": "Vasaloppet",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201175826/1527616729",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/502449064391102464/u-ESBsjK_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/502449064391102464/u-ESBsjK_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "vasaloppet",
+                "statuses_count": 523,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/9DgtxVv53b",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 02:45:36 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2803338379,
+                        "id_str": "2803338379",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "Förvarnaren",
+                        "screen_name": "forvarnaren"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107110708603424768,
+            "id_str": "1107110708603424768",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 35,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Thu Mar 14 21:23:10 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1106304788491309056",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/mdBvI2PMfA"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 220,
+                "favorited": false,
+                "geo": null,
+                "id": 1106304788491309056,
+                "id_str": "1106304788491309056",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "sv",
+                "metadata": {
+                    "iso_language_code": "sv",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 35,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Enligt kommunalrådet (s) i Örebro är återvändande terrorister ”utmaningar”. \nUtmaningar? \nAtt bänka 100 kg är en ut… https://t.co/mdBvI2PMfA",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Sep 11 08:23:23 +0000 2014",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Officer med stort intresse för politik i allmänhet och säkerhetspolitik i synnerhet. Skriver även om livet inom FM, ett jobb som jag älskar!",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 21509,
+                    "follow_request_sent": false,
+                    "followers_count": 2268,
+                    "following": false,
+                    "friends_count": 1720,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 2803338379,
+                    "id_str": "2803338379",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "sv",
+                    "listed_count": 14,
+                    "location": "",
+                    "name": "Förvarnaren",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2803338379/1548508589",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/650622787518754816/skXGiXOg_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/650622787518754816/skXGiXOg_normal.jpg",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "forvarnaren",
+                    "statuses_count": 13414,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @forvarnaren: Enligt kommunalrådet (s) i Örebro är återvändande terrorister ”utmaningar”. \nUtmaningar? \nAtt bänka 100 kg är en utmaning.…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Oct 25 18:50:08 +0000 2012",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 5819,
+                "follow_request_sent": false,
+                "followers_count": 79,
+                "following": false,
+                "friends_count": 412,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 904456400,
+                "id_str": "904456400",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 0,
+                "location": "",
+                "name": "Jan Stahre",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3018700969/7c01a4afd57e6074ddf9a749e6ac71c6_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3018700969/7c01a4afd57e6074ddf9a749e6ac71c6_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "messerschmitten",
+                "statuses_count": 10224,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 01:06:10 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2803338379,
+                        "id_str": "2803338379",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "Förvarnaren",
+                        "screen_name": "forvarnaren"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107085684576317440,
+            "id_str": "1107085684576317440",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 35,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Thu Mar 14 21:23:10 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1106304788491309056",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/mdBvI2PMfA"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 220,
+                "favorited": false,
+                "geo": null,
+                "id": 1106304788491309056,
+                "id_str": "1106304788491309056",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "sv",
+                "metadata": {
+                    "iso_language_code": "sv",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 35,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Enligt kommunalrådet (s) i Örebro är återvändande terrorister ”utmaningar”. \nUtmaningar? \nAtt bänka 100 kg är en ut… https://t.co/mdBvI2PMfA",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Sep 11 08:23:23 +0000 2014",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Officer med stort intresse för politik i allmänhet och säkerhetspolitik i synnerhet. Skriver även om livet inom FM, ett jobb som jag älskar!",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 21509,
+                    "follow_request_sent": false,
+                    "followers_count": 2268,
+                    "following": false,
+                    "friends_count": 1720,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 2803338379,
+                    "id_str": "2803338379",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "sv",
+                    "listed_count": 14,
+                    "location": "",
+                    "name": "Förvarnaren",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2803338379/1548508589",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/650622787518754816/skXGiXOg_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/650622787518754816/skXGiXOg_normal.jpg",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "forvarnaren",
+                    "statuses_count": 13414,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @forvarnaren: Enligt kommunalrådet (s) i Örebro är återvändande terrorister ”utmaningar”. \nUtmaningar? \nAtt bänka 100 kg är en utmaning.…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Feb 21 18:36:37 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "En svensk trav- & pokerblogg",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "generationX.se",
+                                "expanded_url": "http://generationX.se",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/xvH0LTkA49"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 42100,
+                "follow_request_sent": false,
+                "followers_count": 307,
+                "following": false,
+                "friends_count": 347,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1205691829,
+                "id_str": "1205691829",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 3,
+                "location": "",
+                "name": "generationX.se",
+                "notifications": false,
+                "profile_background_color": "041014",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205691829/1361728965",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/525763819180552192/TgGkZD6B_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/525763819180552192/TgGkZD6B_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Tesagtgaeller",
+                "statuses_count": 6223,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "http://t.co/xvH0LTkA49",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Mar 16 20:40:16 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1107018767530377218",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/9O6IOOtPiG"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107018767530377218,
+            "id_str": "1107018767530377218",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Mar 16 17:11:29 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1106966225685487621",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/uqUi2HHA3X"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 50,
+                "favorited": false,
+                "geo": null,
+                "id": 1106966225685487621,
+                "id_str": "1106966225685487621",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "sv",
+                "metadata": {
+                    "iso_language_code": "sv",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 3,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Jaha, så nu vann norrbaggarna både dam- och herrstafetten i skidskytte-VM i dag. \nKul, Norge. Verkligen kul för er.… https://t.co/uqUi2HHA3X",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu May 21 19:05:59 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Höger.💎 Fil kand statsvet & ekono hist, Sthlm uni.📚 Här bjuds politik och vardagsbetraktelser.🕺 Snart din favorit-MILF. 💌 The Verdun army never sleeps.🔫🔫",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 95676,
+                    "follow_request_sent": false,
+                    "followers_count": 11117,
+                    "following": false,
+                    "friends_count": 1057,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 41652476,
+                    "id_str": "41652476",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "sv",
+                    "listed_count": 27,
+                    "location": "Stockholm, Sverige",
+                    "name": "Therese Verdun 🔫👑",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/41652476/1541710052",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1101801684454567936/9P7bsk8j_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101801684454567936/9P7bsk8j_normal.jpg",
+                    "profile_link_color": "FF3399",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "thereseverdun",
+                    "statuses_count": 42758,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "quoted_status_id": 1106966225685487621,
+            "quoted_status_id_str": "1106966225685487621",
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "😂 Och Vasaloppet for 7 året i rad 😉 Nejda, vi bara väntar på nästa Magdalena Forsberg 😁 Sen vinnar ni altihop ett t… https://t.co/9O6IOOtPiG",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Mar 25 13:47:00 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Norge først",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 14129,
+                "follow_request_sent": false,
+                "followers_count": 152,
+                "following": false,
+                "friends_count": 252,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 977904684211036161,
+                "id_str": "977904684211036161",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "powerfrode",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/977904684211036161/1540574930",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1055873032852512770/4P-0gMu2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055873032852512770/4P-0gMu2_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "powerfrode",
+                "statuses_count": 2072,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Mar 16 16:57:36 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            48,
+                            59
+                        ],
+                        "text": "vasaloppet"
+                    },
+                    {
+                        "indices": [
+                            61,
+                            67
+                        ],
+                        "text": "zwift"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1106962732664975363",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/SfeP9tg3SD"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1106962732664975363,
+            "id_str": "1106962732664975363",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "text": "First time riding outside in a month because of #vasaloppet, #zwift and being sick. It won't be a month until the n… https://t.co/SfeP9tg3SD",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon May 24 16:03:08 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Twittrar om cykelsport +ANNAT. Halvelitcyklist med familj. Från Falun. Bloggar hellre än bra. Gillar landsväg, MTB och cykelcross.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "oijer.blogspot.com",
+                                "expanded_url": "http://oijer.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/IDKzUbfLDd"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": false,
+                "followers_count": 1648,
+                "following": false,
+                "friends_count": 412,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 147615540,
+                "id_str": "147615540",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 52,
+                "location": "Falun, Sweden",
+                "name": "Henrik Öijer",
+                "notifications": false,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/147615540/1435682501",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/658021740845465601/1sM6dNPQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/658021740845465601/1sM6dNPQ_normal.jpg",
+                "profile_link_color": "93A644",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "henrikoijer",
+                "statuses_count": 43237,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "http://t.co/IDKzUbfLDd",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Mar 16 14:41:36 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            31,
+                            43
+                        ],
+                        "text": "cyklasäkert"
+                    },
+                    {
+                        "indices": [
+                            44,
+                            55
+                        ],
+                        "text": "vasaloppet"
+                    },
+                    {
+                        "indices": [
+                            56,
+                            67
+                        ],
+                        "text": "cykelvasan"
+                    },
+                    {
+                        "indices": [
+                            68,
+                            80
+                        ],
+                        "text": "cykelmässan"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/W7S4qqyf1V",
+                        "expanded_url": "https://twitter.com/HelenaStigson/status/1106928509023326208/photo/1",
+                        "id": 1106928499997196289,
+                        "id_str": "1106928499997196289",
+                        "indices": [
+                            81,
+                            104
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1yZmyIWwAEi4rZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1yZmyIWwAEi4rZ.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1796,
+                                "resize": "fit",
+                                "w": 1796
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/W7S4qqyf1V"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/W7S4qqyf1V",
+                        "expanded_url": "https://twitter.com/HelenaStigson/status/1106928509023326208/photo/1",
+                        "id": 1106928499997196289,
+                        "id_str": "1106928499997196289",
+                        "indices": [
+                            81,
+                            104
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1yZmyIWwAEi4rZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1yZmyIWwAEi4rZ.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1796,
+                                "resize": "fit",
+                                "w": 1796
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/W7S4qqyf1V"
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 1106928509023326208,
+            "id_str": "1106928509023326208",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                11.226313,
+                                57.496298
+                            ],
+                            [
+                                12.2417273,
+                                57.496298
+                            ],
+                            [
+                                12.2417273,
+                                57.8659142
+                            ],
+                            [
+                                11.226313,
+                                57.8659142
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "Sweden",
+                "country_code": "SE",
+                "full_name": "Gothenburg, Sweden",
+                "id": "53e060d6652640f4",
+                "name": "Gothenburg",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/53e060d6652640f4.json"
+            },
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "I fädernas spår på Cykelmässan #cyklasäkert #vasaloppet #cykelvasan #cykelmässan https://t.co/W7S4qqyf1V",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Nov 08 12:38:07 +0000 2011",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Traffic Safety Researcher at Folksam Insurance Group",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 385,
+                "follow_request_sent": false,
+                "followers_count": 116,
+                "following": false,
+                "friends_count": 207,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 407711360,
+                "id_str": "407711360",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 6,
+                "location": "Stockholm, Sverige",
+                "name": "Helena Stigson",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/407711360/1480514806",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/909511024146911233/3AU-H5mP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/909511024146911233/3AU-H5mP_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "HelenaStigson",
+                "statuses_count": 329,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Mar 16 14:33:54 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 20927633,
+                        "id_str": "20927633",
+                        "indices": [
+                            3,
+                            12
+                        ],
+                        "name": "Sweden.se",
+                        "screen_name": "swedense"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1106926570663485442,
+            "id_str": "1106926570663485442",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 286,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 03 18:02:23 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1102267994607140864",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/UKjKGnhb5q"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1153,
+                "favorited": false,
+                "geo": null,
+                "id": 1102267994607140864,
+                "id_str": "1102267994607140864",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 286,
+                "retweeted": false,
+                "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+                "text": "Today is the day of Vasaloppet, Sweden's traditional cross-country ski race. Photographer Jann Lipka immortalised t… https://t.co/UKjKGnhb5q",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Feb 15 18:45:38 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Hej! Welcome to Sweden's official account on Twitter. | Managed by the https://t.co/3RQLdhUPPO team and a moose at @SweInstitute.  Code of conduct: https://t.co/FlQxQ9wda8",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "sweden.se",
+                                    "expanded_url": "http://sweden.se",
+                                    "indices": [
+                                        71,
+                                        94
+                                    ],
+                                    "url": "https://t.co/3RQLdhUPPO"
+                                },
+                                {
+                                    "display_url": "swedn.me/2kTH35y",
+                                    "expanded_url": "http://swedn.me/2kTH35y",
+                                    "indices": [
+                                        148,
+                                        171
+                                    ],
+                                    "url": "https://t.co/FlQxQ9wda8"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "sweden.se",
+                                    "expanded_url": "https://sweden.se",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/s2CNsWZ9pI"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 5464,
+                    "follow_request_sent": false,
+                    "followers_count": 115533,
+                    "following": false,
+                    "friends_count": 647,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 20927633,
+                    "id_str": "20927633",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 928,
+                    "location": "Stockholm, Sweden",
+                    "name": "Sweden.se",
+                    "notifications": false,
+                    "profile_background_color": "FECB00",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20927633/1544003822",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000278977006/4c9e101ebb2a66314de5f74fb4bd7787_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000278977006/4c9e101ebb2a66314de5f74fb4bd7787_normal.png",
+                    "profile_link_color": "005293",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "swedense",
+                    "statuses_count": 14835,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/s2CNsWZ9pI",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @swedense: Today is the day of Vasaloppet, Sweden's traditional cross-country ski race. Photographer Jann Lipka immortalised the start o…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Dec 12 10:14:03 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 715,
+                "follow_request_sent": false,
+                "followers_count": 14,
+                "following": false,
+                "friends_count": 71,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 808253572408311808,
+                "id_str": "808253572408311808",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en-gb",
+                "listed_count": 0,
+                "location": "Umeå, Sweden",
+                "name": "Ingrid",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/808253572408311808/1497138881",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/873689906811482112/CPGYVvEf_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/873689906811482112/CPGYVvEf_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "yingjui_hsu",
+                "statuses_count": 370,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Mar 16 12:44:28 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 800966437858897920,
+                        "id_str": "800966437858897920",
+                        "indices": [
+                            0,
+                            14
+                        ],
+                        "name": "Värsta Auran",
+                        "screen_name": "LilAbrahaniel"
+                    },
+                    {
+                        "id": 1671222121,
+                        "id_str": "1671222121",
+                        "indices": [
+                            15,
+                            28
+                        ],
+                        "name": "khoshgel feili",
+                        "screen_name": "gomanekhanom"
+                    },
+                    {
+                        "id": 271533777,
+                        "id_str": "271533777",
+                        "indices": [
+                            29,
+                            39
+                        ],
+                        "name": "skoj men ändå",
+                        "screen_name": "deHmannen"
+                    }
+                ]
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "geo": null,
+            "id": 1106899028170760193,
+            "id_str": "1106899028170760193",
+            "in_reply_to_screen_name": "LilAbrahaniel",
+            "in_reply_to_status_id": 1106897794151997440,
+            "in_reply_to_status_id_str": "1106897794151997440",
+            "in_reply_to_user_id": 800966437858897920,
+            "in_reply_to_user_id_str": "800966437858897920",
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "@LilAbrahaniel @gomanekhanom @deHmannen Vi cyklar Vasaloppet tsm, stop by tempo o köper pipas och PK",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jan 13 21:33:50 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Min twitter e underskattad",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 1829,
+                "follow_request_sent": false,
+                "followers_count": 706,
+                "following": false,
+                "friends_count": 196,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1084564201467715587,
+                "id_str": "1084564201467715587",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Simalb",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084564201467715587/1552787933",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105853661270429696/24EsEiK9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105853661270429696/24EsEiK9_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "simbadri",
+                "statuses_count": 682,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ]
+}

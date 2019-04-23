@@ -1,0 +1,1870 @@
+{
+    "search_metadata": {
+        "completed_in": 0.067,
+        "count": 10,
+        "max_id": 1103283740648882176,
+        "max_id_str": "1103283740648882176",
+        "next_results": "?max_id=1103283259335733249&q=stockholm&count=10&include_entities=1",
+        "query": "stockholm",
+        "refresh_url": "?since_id=1103283740648882176&q=stockholm&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:36 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 463276040,
+                        "id_str": "463276040",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "Jon du Toit",
+                        "screen_name": "jondutoit"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283740648882176,
+            "id_str": "1103283740648882176",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 29,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 01:08:00 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103099878719123457",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/ao5EJgCq0w"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 124,
+                "favorited": false,
+                "geo": null,
+                "id": 1103099878719123457,
+                "id_str": "1103099878719123457",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 29,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "The need to be loved by an openly hostile establishment has infected conservatism to a crippling degree.\n\nBeing sub… https://t.co/ao5EJgCq0w",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Jan 13 22:50:54 +0000 2012",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Filmmaker / Co-director of \"Hoaxed\" with @TrueLegendFilms and produced by @Cernovich / Joshua 1:9 / https://t.co/38kzAJbwFl",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "HOAXEDMOVIE.COM",
+                                    "expanded_url": "http://HOAXEDMOVIE.COM",
+                                    "indices": [
+                                        100,
+                                        123
+                                    ],
+                                    "url": "https://t.co/38kzAJbwFl"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "jondutoit.com",
+                                    "expanded_url": "http://jondutoit.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/zXaceGWQzn"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 7966,
+                    "follow_request_sent": false,
+                    "followers_count": 2856,
+                    "following": false,
+                    "friends_count": 444,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 463276040,
+                    "id_str": "463276040",
+                    "is_translation_enabled": true,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 47,
+                    "location": "here",
+                    "name": "Jon du Toit",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/463276040/1550727387",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1088857150900695041/hgL1adDX_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088857150900695041/hgL1adDX_normal.jpg",
+                    "profile_link_color": "00BA54",
+                    "profile_sidebar_border_color": "EEEEEE",
+                    "profile_sidebar_fill_color": "EFEFEF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "jondutoit",
+                    "statuses_count": 18701,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/zXaceGWQzn",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @jondutoit: The need to be loved by an openly hostile establishment has infected conservatism to a crippling degree.\n\nBeing subjected to…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Aug 23 04:36:32 +0000 2018",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "We pretty much retweet the sh*t out of everything here. Follow us on Facebook • 200,000+ followers & counting #MAGA 🐸🇺🇸",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "facebook.com/danktrumpmeme",
+                                "expanded_url": "http://facebook.com/danktrumpmeme",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/Zz8Y2hIR8P"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 15474,
+                "follow_request_sent": false,
+                "followers_count": 568,
+                "following": false,
+                "friends_count": 284,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1032486722838224896,
+                "id_str": "1032486722838224896",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "danktrumpmeme🇺🇸",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032486722838224896/1535002688",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1032496082071183361/3wEmlOw8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032496082071183361/3wEmlOw8_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "danktrumpmeme",
+                "statuses_count": 2756,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/Zz8Y2hIR8P",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:30 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283716552622080",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/VJ9tg9kPEO"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283716552622080,
+            "id_str": "1103283716552622080",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Best day of my life. Still can’t even believe that i’ve actually met you. Still blows my mind how many times you ma… https://t.co/VJ9tg9kPEO",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Mar 13 16:11:45 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 2045,
+                "follow_request_sent": false,
+                "followers_count": 43,
+                "following": false,
+                "friends_count": 281,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 2387345282,
+                "id_str": "2387345282",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 1,
+                "location": "Stockholm, Sverige",
+                "name": "Fraqq2k",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2387345282/1533681833",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1026962035605692417/FstML979_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026962035605692417/FstML979_normal.jpg",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "FraqqRL",
+                "statuses_count": 749,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:30 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2231296237,
+                        "id_str": "2231296237",
+                        "indices": [
+                            3,
+                            19
+                        ],
+                        "name": "la chaine L'Équipe",
+                        "screen_name": "lachainelequipe"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283715717951488,
+            "id_str": "1103283715717951488",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 17,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 09:19:45 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103223632451588096",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/gLTGc9BLHL"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 163,
+                "favorited": false,
+                "geo": null,
+                "id": 1103223632451588096,
+                "id_str": "1103223632451588096",
+                "in_reply_to_screen_name": "lachainelequipe",
+                "in_reply_to_status_id": 1103218864454815744,
+                "in_reply_to_status_id_str": "1103218864454815744",
+                "in_reply_to_user_id": 2231296237,
+                "in_reply_to_user_id_str": "2231296237",
+                "is_quote_status": false,
+                "lang": "fr",
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 17,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "🤟✈️ On embarque direction Stockholm ! Vous pourrez suivre les coulisses des Mondiaux sur tous nos réseaux sociaux :… https://t.co/gLTGc9BLHL",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Dec 05 10:46:03 +0000 2013",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Toute l'actualité sportive en temps réel avec @lequipe // Facebook - Instagram : lachainelequipe",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "bit.ly/2c2bMXJ",
+                                    "expanded_url": "http://bit.ly/2c2bMXJ",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/THofMaG80k"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 10420,
+                    "follow_request_sent": false,
+                    "followers_count": 273316,
+                    "following": false,
+                    "friends_count": 711,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 2231296237,
+                    "id_str": "2231296237",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "fr",
+                    "listed_count": 947,
+                    "location": "Paris, France",
+                    "name": "la chaine L'Équipe",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2231296237/1551456527",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/898131594275368960/kXWbIelw_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898131594275368960/kXWbIelw_normal.jpg",
+                    "profile_link_color": "EE162D",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "lachainelequipe",
+                    "statuses_count": 39069,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/THofMaG80k",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @lachainelequipe: 🤟✈️ On embarque direction Stockholm ! Vous pourrez suivre les coulisses des Mondiaux sur tous nos réseaux sociaux : Tw…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jan 23 02:36:05 +0000 2015",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Journaliste @lachainelequipe / Les Grands Live - La Grande Soirée LDC - EDS week-end - UEFA Nations League",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 5967,
+                "follow_request_sent": false,
+                "followers_count": 716,
+                "following": false,
+                "friends_count": 1150,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 2993492956,
+                "id_str": "2993492956",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 5,
+                "location": "",
+                "name": "Redouane Bennour",
+                "notifications": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2993492956/1543608077",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1039937074449793024/MZpZjdvM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039937074449793024/MZpZjdvM_normal.jpg",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "LaRed95",
+                "statuses_count": 2567,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:08 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "arkeloggen.se/podcasts/",
+                        "expanded_url": "http://www.arkeloggen.se/podcasts/",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "url": "https://t.co/hmOWcPRMJt"
+                    },
+                    {
+                        "display_url": "pedagogblogg.stockholm.se/en-poddares-da…",
+                        "expanded_url": "http://pedagogblogg.stockholm.se/en-poddares-dagbok/2014/11/19/mina-podcastfavoriter-tema-historia/",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "url": "https://t.co/JUd8hlico9"
+                    },
+                    {
+                        "display_url": "historia.nu",
+                        "expanded_url": "https://historia.nu/",
+                        "indices": [
+                            107,
+                            130
+                        ],
+                        "url": "https://t.co/DJ57AYJQmk"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 2792287809,
+                        "id_str": "2792287809",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "name": "Sticklingen",
+                        "screen_name": "sticklingens"
+                    },
+                    {
+                        "id": 119030837,
+                        "id_str": "119030837",
+                        "indices": [
+                            14,
+                            29
+                        ],
+                        "name": "Lars Amréus",
+                        "screen_name": "Riksantikvarie"
+                    },
+                    {
+                        "id": 2861734654,
+                        "id_str": "2861734654",
+                        "indices": [
+                            30,
+                            46
+                        ],
+                        "name": "Kajsa Strömberg",
+                        "screen_name": "Kajsa_Stromberg"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283624156241925,
+            "id_str": "1103283624156241925",
+            "in_reply_to_screen_name": "sticklingens",
+            "in_reply_to_status_id": 1103280759182450690,
+            "in_reply_to_status_id_str": "1103280759182450690",
+            "in_reply_to_user_id": 2792287809,
+            "in_reply_to_user_id_str": "2792287809",
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@sticklingens @Riksantikvarie @Kajsa_Stromberg Några tips: https://t.co/hmOWcPRMJt\nhttps://t.co/JUd8hlico9\nhttps://t.co/DJ57AYJQmk",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Jul 20 16:56:42 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Var arkeolog, numera kulturarvssamordnare, flanör, vinälskare och fältväbel (utnämnd av Riddare av Hederslegionen). Twitters gentleman enligt ledande skribent.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 17201,
+                "follow_request_sent": false,
+                "followers_count": 1550,
+                "following": false,
+                "friends_count": 1057,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1608636146,
+                "id_str": "1608636146",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 26,
+                "location": "Göteborgs universitet",
+                "name": "Anders Strinnholm",
+                "notifications": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608636146/1518028274",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/852533996776980485/RL88XquS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/852533996776980485/RL88XquS_normal.jpg",
+                "profile_link_color": "3D0A14",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "AStrinnholm",
+                "statuses_count": 44621,
+                "time_zone": null,
+                "translator_type": "regular",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:49 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283542920957952",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/MCwjrXWM0n"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283542920957952,
+            "id_str": "1103283542920957952",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "da",
+            "metadata": {
+                "iso_language_code": "da",
+                "result_type": "recent"
+            },
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                17.5742252,
+                                59.5482261
+                            ],
+                            [
+                                18.1532416,
+                                59.5482261
+                            ],
+                            [
+                                18.1532416,
+                                59.745521
+                            ],
+                            [
+                                17.5742252,
+                                59.745521
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "Sweden",
+                "country_code": "SE",
+                "full_name": "Sigtuna, Sverige",
+                "id": "739a4a10524dd944",
+                "name": "Sigtuna",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/739a4a10524dd944.json"
+            },
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Det begynder at lugte af vintersport. Mellemlanding i Stockholm. Destination: Östersund og VM i skiskydning. Klar t… https://t.co/MCwjrXWM0n",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue May 03 12:50:33 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Reporter og kommentator TV 2 SPORT - tweeter mest om sport - fortrinsvis bold og især puck. larf@tv2.dk - tlf 30 100 139",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 4197,
+                "follow_request_sent": false,
+                "followers_count": 1844,
+                "following": false,
+                "friends_count": 614,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 292304419,
+                "id_str": "292304419",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 48,
+                "location": "",
+                "name": "Lars Fink",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/292304419/1539163684",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/836507392816873476/J-n7ETio_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/836507392816873476/J-n7ETio_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "finktv2sporten",
+                "statuses_count": 8273,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:38 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            90,
+                            98
+                        ],
+                        "text": "左ききのエレン"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/qErouwmub2",
+                        "expanded_url": "https://twitter.com/htk_htk_htk/status/1103281634512523266/photo/1",
+                        "id": 1103281628334383106,
+                        "id_str": "1103281628334383106",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1334,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 675
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 382
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 1103281634512523266,
+                        "source_status_id_str": "1103281634512523266",
+                        "source_user_id": 587397786,
+                        "source_user_id_str": "587397786",
+                        "type": "photo",
+                        "url": "https://t.co/qErouwmub2"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 587397786,
+                        "id_str": "587397786",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "はたけ まさき",
+                        "screen_name": "htk_htk_htk"
+                    },
+                    {
+                        "id": 78329405,
+                        "id_str": "78329405",
+                        "indices": [
+                            99,
+                            108
+                        ],
+                        "name": "かっぴー（左ききのエレン⑦発売中！",
+                        "screen_name": "nora_ito"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/qErouwmub2",
+                        "expanded_url": "https://twitter.com/htk_htk_htk/status/1103281634512523266/photo/1",
+                        "id": 1103281628334383106,
+                        "id_str": "1103281628334383106",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1334,
+                                "resize": "fit",
+                                "w": 750
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 675
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 382
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 1103281634512523266,
+                        "source_status_id_str": "1103281634512523266",
+                        "source_user_id": 587397786,
+                        "source_user_id_str": "587397786",
+                        "type": "photo",
+                        "url": "https://t.co/qErouwmub2"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/qErouwmub2",
+                        "expanded_url": "https://twitter.com/htk_htk_htk/status/1103281634512523266/photo/1",
+                        "id": 1103281628330176513,
+                        "id_str": "1103281628330176513",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D0-ky6fVsAEXGL-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D0-ky6fVsAEXGL-.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 701,
+                                "resize": "fit",
+                                "w": 438
+                            },
+                            "medium": {
+                                "h": 701,
+                                "resize": "fit",
+                                "w": 438
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 425
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 1103281634512523266,
+                        "source_status_id_str": "1103281634512523266",
+                        "source_user_id": 587397786,
+                        "source_user_id_str": "587397786",
+                        "type": "photo",
+                        "url": "https://t.co/qErouwmub2"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283499358838784,
+            "id_str": "1103283499358838784",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "ja",
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 5,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:10:14 +0000 2019",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                73,
+                                81
+                            ],
+                            "text": "左ききのエレン"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/qErouwmub2",
+                            "expanded_url": "https://twitter.com/htk_htk_htk/status/1103281634512523266/photo/1",
+                            "id": 1103281628334383106,
+                            "id_str": "1103281628334383106",
+                            "indices": [
+                                92,
+                                115
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 1334,
+                                    "resize": "fit",
+                                    "w": 750
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "resize": "fit",
+                                    "w": 675
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 382
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/qErouwmub2"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id": 78329405,
+                            "id_str": "78329405",
+                            "indices": [
+                                82,
+                                91
+                            ],
+                            "name": "かっぴー（左ききのエレン⑦発売中！",
+                            "screen_name": "nora_ito"
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/qErouwmub2",
+                            "expanded_url": "https://twitter.com/htk_htk_htk/status/1103281634512523266/photo/1",
+                            "id": 1103281628334383106,
+                            "id_str": "1103281628334383106",
+                            "indices": [
+                                92,
+                                115
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D0-ky6gV4AIt1yB.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 1334,
+                                    "resize": "fit",
+                                    "w": 750
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "resize": "fit",
+                                    "w": 675
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 382
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/qErouwmub2"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/qErouwmub2",
+                            "expanded_url": "https://twitter.com/htk_htk_htk/status/1103281634512523266/photo/1",
+                            "id": 1103281628330176513,
+                            "id_str": "1103281628330176513",
+                            "indices": [
+                                92,
+                                115
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D0-ky6fVsAEXGL-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D0-ky6fVsAEXGL-.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 701,
+                                    "resize": "fit",
+                                    "w": 438
+                                },
+                                "medium": {
+                                    "h": 701,
+                                    "resize": "fit",
+                                    "w": 438
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 425
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/qErouwmub2"
+                        }
+                    ]
+                },
+                "favorite_count": 9,
+                "favorited": false,
+                "geo": null,
+                "id": 1103281634512523266,
+                "id_str": "1103281634512523266",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "ja",
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 5,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "かっぴーさんから。。。いいねがきた。。。 \n広告代理店に勤めています同期に紹介すると100%ハマります。\n今までで1番共感を得たコマはこれです。\n#左ききのエレン @nora_ito https://t.co/qErouwmub2",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue May 22 10:26:01 +0000 2012",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "カッコいいパパになりたいインターネット広告代理店1年目。野球歴14年。決め球はスライダーです。ひたすら笑ってる人生を送りたいです。 スポーツビジネス大好き。",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 3762,
+                    "follow_request_sent": false,
+                    "followers_count": 785,
+                    "following": false,
+                    "friends_count": 1050,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 587397786,
+                    "id_str": "587397786",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "ja",
+                    "listed_count": 1,
+                    "location": "ギター初心者",
+                    "name": "はたけ まさき",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/587397786/1486808889",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/883994429631086595/1-qMx3lR_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883994429631086595/1-qMx3lR_normal.jpg",
+                    "profile_link_color": "E81C4F",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "htk_htk_htk",
+                    "statuses_count": 9343,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "RT @htk_htk_htk: かっぴーさんから。。。いいねがきた。。。 \n広告代理店に勤めています同期に紹介すると100%ハマります。\n今までで1番共感を得たコマはこれです。\n#左ききのエレン @nora_ito https://t.co/qErouwmub2",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Apr 04 05:00:09 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "酒はのんでものまれるな🍶燃え尽きそうなときは銭湯にいきます♨️\n好きな音楽アーティストはToolとクラムボンです🎷",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 19902,
+                "follow_request_sent": false,
+                "followers_count": 211,
+                "following": false,
+                "friends_count": 428,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1326184760,
+                "id_str": "1326184760",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "ja",
+                "listed_count": 9,
+                "location": "",
+                "name": "Seiwa.H",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1326184760/1503188718",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1079218859666694146/ECmcMHSE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079218859666694146/ECmcMHSE_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "stockholm_sy",
+                "statuses_count": 3220,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:37 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 753974664041533440,
+                        "id_str": "753974664041533440",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "BasedPoland",
+                        "screen_name": "BasedPoland"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283491872129025,
+            "id_str": "1103283491872129025",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 189,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 08:46:11 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103215185844678656",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/bs3trUWBjR"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 254,
+                "favorited": false,
+                "geo": null,
+                "id": 1103215185844678656,
+                "id_str": "1103215185844678656",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 189,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Sweden has decided to allow citizens who went to Syria to fight for ISIS to return to Sweden. They will now start d… https://t.co/bs3trUWBjR",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Jul 15 15:29:02 +0000 2016",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Poland First! National Conservative Western Alliance! Supporter of #V4Group #3SI & #Intermarium. Born to Polish parents in Sweden but now back in Poland 🇵🇱🇸🇪🇺🇸",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 19294,
+                    "follow_request_sent": false,
+                    "followers_count": 46709,
+                    "following": false,
+                    "friends_count": 34494,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 753974664041533440,
+                    "id_str": "753974664041533440",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "sv",
+                    "listed_count": 128,
+                    "location": "Warszawa, Polska",
+                    "name": "BasedPoland",
+                    "notifications": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/753974664041533440/1469064776",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/965379053204262913/Mm5ihm7P_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/965379053204262913/Mm5ihm7P_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "BasedPoland",
+                    "statuses_count": 26120,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "RT @BasedPoland: Sweden has decided to allow citizens who went to Syria to fight for ISIS to return to Sweden. They will now start deradica…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Aug 26 17:51:37 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": true,
+                "description": "MAGA!!!Love my God. COUNTRY  🇺🇸 PRESIDENT & FLOTUS",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 59860,
+                "follow_request_sent": false,
+                "followers_count": 1958,
+                "following": false,
+                "friends_count": 1971,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 3449249895,
+                "id_str": "3449249895",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 3,
+                "location": "",
+                "name": "M. Mahone",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "hrh2011mo",
+                "statuses_count": 56461,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:08 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "hubs.ly/H0gSt-90",
+                        "expanded_url": "https://hubs.ly/H0gSt-90",
+                        "indices": [
+                            105,
+                            128
+                        ],
+                        "url": "https://t.co/TJ0WAx7xzB"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 1414622300,
+                        "id_str": "1414622300",
+                        "indices": [
+                            3,
+                            19
+                        ],
+                        "name": "Seeq Corporation",
+                        "screen_name": "SeeqCorporation"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283371407523840,
+            "id_str": "1103283371407523840",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Mon Mar 04 20:36:00 +0000 2019",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                108,
+                                126
+                            ],
+                            "text": "AdvancedAnalytics"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "hubs.ly/H0gSt-90",
+                            "expanded_url": "https://hubs.ly/H0gSt-90",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "url": "https://t.co/TJ0WAx7xzB"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1102669040085098496,
+                "id_str": "1102669040085098496",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+                "text": "Looking forward to the fourth annual Data Innovation Summit next week in Stockholm! https://t.co/TJ0WAx7xzB #AdvancedAnalytics",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu May 09 04:57:54 +0000 2013",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Seeq turns process data into business insights",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "seeq.com",
+                                    "expanded_url": "http://www.seeq.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/kwIe9hI1wq"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 207,
+                    "follow_request_sent": false,
+                    "followers_count": 394,
+                    "following": false,
+                    "friends_count": 189,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 1414622300,
+                    "id_str": "1414622300",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 19,
+                    "location": "Seattle, WA",
+                    "name": "Seeq Corporation",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414622300/1530642299",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/892463807041327104/4goinNcc_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/892463807041327104/4goinNcc_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "SeeqCorporation",
+                    "statuses_count": 588,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "http://t.co/kwIe9hI1wq",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @SeeqCorporation: Looking forward to the fourth annual Data Innovation Summit next week in Stockholm! https://t.co/TJ0WAx7xzB #AdvancedA…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Mar 10 22:07:14 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Master of arts, content management specialista @Microsoft, sciatore, tenniscoach. Tweets are my own. https://t.co/y0D1xteRwK",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "itun.es/se/5m4xkb.l",
+                                "expanded_url": "https://itun.es/se/5m4xkb.l",
+                                "indices": [
+                                    101,
+                                    124
+                                ],
+                                "url": "https://t.co/y0D1xteRwK"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "magnuswesterberg.tumblr.com",
+                                "expanded_url": "http://magnuswesterberg.tumblr.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/Cynu2Meeky"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4871,
+                "follow_request_sent": false,
+                "followers_count": 149,
+                "following": false,
+                "friends_count": 598,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 23667674,
+                "id_str": "23667674",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 1,
+                "location": "Vaxholm",
+                "name": "Magnus Westerberg",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/23667674/1542141462",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1039971288662663168/BqEe44iQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039971288662663168/BqEe44iQ_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "herrwesterberg",
+                "statuses_count": 985,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/Cynu2Meeky",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:01 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283340604592128",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/QKiD0hgcOk"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283340604592128,
+            "id_str": "1103283340604592128",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Många flyttar från Stockholm med inhemskt negativt flyttnetto sker tillväxt från utlandet och positivt född/död net… https://t.co/QKiD0hgcOk",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Sep 05 09:12:05 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Hållbar Platsutveckling utifrån Agenda 2030 | Attraktiva miljöer för boende, besökare och verksamheter | Sverige | For English: @calaicia",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "about.me/janbergman",
+                                "expanded_url": "http://about.me/janbergman",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/95McXk5s2D"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 3450,
+                "follow_request_sent": false,
+                "followers_count": 925,
+                "following": false,
+                "friends_count": 580,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 804209353,
+                "id_str": "804209353",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 22,
+                "location": "Sverige",
+                "name": "#SDGs Platsutveckling",
+                "notifications": false,
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/804209353/1357155157",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2578951921/q0psh2fh0rce4rtr3zb7_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2578951921/q0psh2fh0rce4rtr3zb7_normal.jpeg",
+                "profile_link_color": "9266CC",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Platsutveckling",
+                "statuses_count": 5308,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/95McXk5s2D",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:16:41 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 873676908826853376,
+                        "id_str": "873676908826853376",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "name": "Jackson stone",
+                        "screen_name": "tdjs_network"
+                    },
+                    {
+                        "id": 1497723546,
+                        "id_str": "1497723546",
+                        "indices": [
+                            14,
+                            30
+                        ],
+                        "name": "Barry McCockiner",
+                        "screen_name": "SportsTalkBarry"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283259335733250,
+            "id_str": "1103283259335733250",
+            "in_reply_to_screen_name": "tdjs_network",
+            "in_reply_to_status_id": 1103064759782514690,
+            "in_reply_to_status_id_str": "1103064759782514690",
+            "in_reply_to_user_id": 873676908826853376,
+            "in_reply_to_user_id_str": "873676908826853376",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "@tdjs_network @SportsTalkBarry Ever heard of the term Stockholm Syndrome?",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Nov 29 01:43:16 +0000 2018",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Diehard Michigan State, Red Wings, (critical) Lions, Rams, Tigers and Pistons fan. HUGE movie and TV buff.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 294,
+                "follow_request_sent": false,
+                "followers_count": 65,
+                "following": false,
+                "friends_count": 263,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1067957132618805249,
+                "id_str": "1067957132618805249",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1,
+                "location": "Michigan fans' heads",
+                "name": "Dr. Holden McGroin",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067957132618805249/1543455917",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1068183527190142978/qREE7DEf_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068183527190142978/qREE7DEf_normal.jpg",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "HoldenMcGroinMD",
+                "statuses_count": 2679,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ]
+}

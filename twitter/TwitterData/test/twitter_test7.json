@@ -1,0 +1,2102 @@
+{
+    "search_metadata": {
+        "completed_in": 0.038,
+        "count": 10,
+        "max_id": 1107273313334681600,
+        "max_id_str": "1107273313334681600",
+        "next_results": "?max_id=1107273019401994239&q=stockholm&count=10&include_entities=1",
+        "query": "stockholm",
+        "refresh_url": "?since_id=1107273313334681600&q=stockholm&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:44 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 34632273,
+                        "id_str": "34632273",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "𝕸𝖆𝖓𝖙𝖗𝖆𝕸𝖆𝖓𝖙𝖗𝖆",
+                        "screen_name": "KuntoAjiW"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273313334681600,
+            "id_str": "1107273313334681600",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "in",
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 384,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 10:13:43 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107223479722467328",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/ZyXMOWGIRQ"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 236,
+                "favorited": false,
+                "geo": null,
+                "id": 1107223479722467328,
+                "id_str": "1107223479722467328",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "in",
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    110.3681267,
+                                    -7.797804
+                                ],
+                                [
+                                    110.395497,
+                                    -7.797804
+                                ],
+                                [
+                                    110.395497,
+                                    -7.7742774
+                                ],
+                                [
+                                    110.3681267,
+                                    -7.7742774
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "Indonesia",
+                    "country_code": "ID",
+                    "full_name": "Gondokusuman, Indonesia",
+                    "id": "ae188c2b719d333e",
+                    "name": "Gondokusuman",
+                    "place_type": "city",
+                    "url": "https://api.twitter.com/1.1/geo/id/ae188c2b719d333e.json"
+                },
+                "retweet_count": 384,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Kebencian berada dalam satu arena. Brenton membalas dendam atas kejadian di Stockholm yg dilakukan oleh extremists… https://t.co/ZyXMOWGIRQ",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Apr 23 14:55:34 +0000 2009",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "a man with no border in making friends,music and life. | Indonesian | Cp: Hernu (0821 23850556) | Kuntoajiofficial@gmail.com | #Mudabergerak",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "kuntoaji.com",
+                                    "expanded_url": "http://www.kuntoaji.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/n8SjjUq9UW"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 560,
+                    "follow_request_sent": false,
+                    "followers_count": 52994,
+                    "following": false,
+                    "friends_count": 1607,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 34632273,
+                    "id_str": "34632273",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 84,
+                    "location": "",
+                    "name": "𝕸𝖆𝖓𝖙𝖗𝖆𝕸𝖆𝖓𝖙𝖗𝖆",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/34632273/1549479927",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1045313943525183488/wI5e_ZIT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045313943525183488/wI5e_ZIT_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "KuntoAjiW",
+                    "statuses_count": 59907,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/n8SjjUq9UW",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @KuntoAjiW: Kebencian berada dalam satu arena. Brenton membalas dendam atas kejadian di Stockholm yg dilakukan oleh extremists muslim. I…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jun 13 05:39:41 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Mario saragih❤",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 208,
+                "follow_request_sent": false,
+                "followers_count": 355,
+                "following": false,
+                "friends_count": 209,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 316264175,
+                "id_str": "316264175",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Central Kalimantan, Indonesia",
+                "name": "Dita Christina S.",
+                "notifications": false,
+                "profile_background_color": "FF6699",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/316264175/1535442695",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1102539980214169600/htzXQRId_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102539980214169600/htzXQRId_normal.jpg",
+                "profile_link_color": "B40B43",
+                "profile_sidebar_border_color": "CC3366",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "ditachrstina",
+                "statuses_count": 11138,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:32 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            21,
+                            35
+                        ],
+                        "text": "จอยจี้แจกจริง"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2298914270,
+                        "id_str": "2298914270",
+                        "indices": [
+                            3,
+                            19
+                        ],
+                        "name": "จอยจี้รีวิว เด็กเตรียมสอบ",
+                        "screen_name": "loveberryjoyjee"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273263778955266,
+            "id_str": "1107273263778955266",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "th",
+            "metadata": {
+                "iso_language_code": "th",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 3005,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Fri Mar 15 12:56:09 +0000 2019",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                0,
+                                14
+                            ],
+                            "text": "จอยจี้แจกจริง"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1106539580369440768",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/goYvLvnmBr"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 567,
+                "favorited": false,
+                "geo": null,
+                "id": 1106539580369440768,
+                "id_str": "1106539580369440768",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "th",
+                "metadata": {
+                    "iso_language_code": "th",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    100.5685429,
+                                    13.8011614
+                                ],
+                                [
+                                    100.5898796,
+                                    13.8011614
+                                ],
+                                [
+                                    100.5898796,
+                                    13.8347826
+                                ],
+                                [
+                                    100.5685429,
+                                    13.8347826
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "Thailand",
+                    "country_code": "TH",
+                    "full_name": "Chan Kasem, Thailand",
+                    "id": "017c824f684bce1b",
+                    "name": "Chan Kasem",
+                    "place_type": "city",
+                    "url": "https://api.twitter.com/1.1/geo/id/017c824f684bce1b.json"
+                },
+                "possibly_sensitive": false,
+                "retweet_count": 3005,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "#จอยจี้แจกจริง TGIF วันศุกร์แล้ว!! เตรียมปาร์ตี้เสาอาทิตย์ มีพาเลตต์แซ่บๆ แล้วรึยัง? แจกไปเลยฮะ NYX Stockholm 1 ราง… https://t.co/goYvLvnmBr",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Jan 19 03:40:29 +0000 2014",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "รีวิวทุกอย่าง ที่อยากจะรีวิว 🐰 เด็กหมวย ผิวNC20 Light •IG&Line• loveberryjoyjee love.berry.joyjee@gmail.com",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "loveberryjoyjee.com",
+                                    "expanded_url": "http://www.loveberryjoyjee.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/1PyitucHbM"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 7201,
+                    "follow_request_sent": false,
+                    "followers_count": 38518,
+                    "following": false,
+                    "friends_count": 253,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 2298914270,
+                    "id_str": "2298914270",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en-gb",
+                    "listed_count": 9,
+                    "location": "",
+                    "name": "จอยจี้รีวิว เด็กเตรียมสอบ",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2298914270/1502193935",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/968540213885657088/dctBRPzs_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/968540213885657088/dctBRPzs_normal.jpg",
+                    "profile_link_color": "F58EA8",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "loveberryjoyjee",
+                    "statuses_count": 9259,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/1PyitucHbM",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @loveberryjoyjee: #จอยจี้แจกจริง TGIF วันศุกร์แล้ว!! เตรียมปาร์ตี้เสาอาทิตย์ มีพาเลตต์แซ่บๆ แล้วรึยัง? แจกไปเลยฮะ NYX Stockholm 1 รางวัล…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Mar 05 13:11:13 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "a student | seem to my dream | support my idol always #cheerscocktail",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 17146,
+                "follow_request_sent": false,
+                "followers_count": 11,
+                "following": false,
+                "friends_count": 205,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 970647923687014401,
+                "id_str": "970647923687014401",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "th",
+                "listed_count": 0,
+                "location": "ประเทศไทย",
+                "name": "|jwnee|",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/970647923687014401/1551430734",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105421821195636737/ZucnAejM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105421821195636737/ZucnAejM_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "thananney_",
+                "statuses_count": 2421,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:15 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/jH74hQe8RS",
+                        "expanded_url": "https://twitter.com/TravelVida/status/1106933214839480320/photo/1",
+                        "id": 1106933213140795392,
+                        "id_str": "1106933213140795392",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1350,
+                                "resize": "fit",
+                                "w": 1080
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 960
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 544
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 1106933214839480320,
+                        "source_status_id_str": "1106933214839480320",
+                        "source_user_id": 705928670150467585,
+                        "source_user_id_str": "705928670150467585",
+                        "type": "photo",
+                        "url": "https://t.co/jH74hQe8RS"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 705928670150467585,
+                        "id_str": "705928670150467585",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "Travel Vida 🌎",
+                        "screen_name": "TravelVida"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/jH74hQe8RS",
+                        "expanded_url": "https://twitter.com/TravelVida/status/1106933214839480320/photo/1",
+                        "id": 1106933213140795392,
+                        "id_str": "1106933213140795392",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1350,
+                                "resize": "fit",
+                                "w": 1080
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 960
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 544
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 1106933214839480320,
+                        "source_status_id_str": "1106933214839480320",
+                        "source_user_id": 705928670150467585,
+                        "source_user_id_str": "705928670150467585",
+                        "type": "photo",
+                        "url": "https://t.co/jH74hQe8RS"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jH74hQe8RS",
+                        "expanded_url": "https://twitter.com/TravelVida/status/1106933214839480320/photo/1",
+                        "id": 1106933213266657281,
+                        "id_str": "1106933213266657281",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D1yd5IbXQAEDrWf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D1yd5IbXQAEDrWf.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1350,
+                                "resize": "fit",
+                                "w": 1080
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 960
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 544
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 1106933214839480320,
+                        "source_status_id_str": "1106933214839480320",
+                        "source_user_id": 705928670150467585,
+                        "source_user_id_str": "705928670150467585",
+                        "type": "photo",
+                        "url": "https://t.co/jH74hQe8RS"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273190265577472,
+            "id_str": "1107273190265577472",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "sv",
+            "metadata": {
+                "iso_language_code": "sv",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2221,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Mar 16 15:00:18 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/jH74hQe8RS",
+                            "expanded_url": "https://twitter.com/TravelVida/status/1106933214839480320/photo/1",
+                            "id": 1106933213140795392,
+                            "id_str": "1106933213140795392",
+                            "indices": [
+                                21,
+                                44
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 1350,
+                                    "resize": "fit",
+                                    "w": 1080
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 544
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/jH74hQe8RS"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/jH74hQe8RS",
+                            "expanded_url": "https://twitter.com/TravelVida/status/1106933214839480320/photo/1",
+                            "id": 1106933213140795392,
+                            "id_str": "1106933213140795392",
+                            "indices": [
+                                21,
+                                44
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D1yd5H9WwAAhBA8.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 1350,
+                                    "resize": "fit",
+                                    "w": 1080
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 544
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/jH74hQe8RS"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/jH74hQe8RS",
+                            "expanded_url": "https://twitter.com/TravelVida/status/1106933214839480320/photo/1",
+                            "id": 1106933213266657281,
+                            "id_str": "1106933213266657281",
+                            "indices": [
+                                21,
+                                44
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D1yd5IbXQAEDrWf.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D1yd5IbXQAEDrWf.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 1350,
+                                    "resize": "fit",
+                                    "w": 1080
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "resize": "fit",
+                                    "w": 544
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/jH74hQe8RS"
+                        }
+                    ]
+                },
+                "favorite_count": 9499,
+                "favorited": false,
+                "geo": null,
+                "id": 1106933214839480320,
+                "id_str": "1106933214839480320",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "sv",
+                "metadata": {
+                    "iso_language_code": "sv",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 2221,
+                "retweeted": false,
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "text": "Stockholm, Sweden 🇸🇪 https://t.co/jH74hQe8RS",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sat Mar 05 01:31:25 +0000 2016",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Some beautiful paths can’t be discovered without getting lost. Contact hello@travelvida.co",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "travelvida.co",
+                                    "expanded_url": "http://travelvida.co",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/bhm83DKSMw"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 126,
+                    "follow_request_sent": false,
+                    "followers_count": 457553,
+                    "following": false,
+                    "friends_count": 2,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 705928670150467585,
+                    "id_str": "705928670150467585",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 1996,
+                    "location": "Planet Earth",
+                    "name": "Travel Vida 🌎",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/705928670150467585/1536977406",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1040735205315825664/Yi7VY3cJ_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040735205315825664/Yi7VY3cJ_normal.jpg",
+                    "profile_link_color": "111111",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "TravelVida",
+                    "statuses_count": 1275,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/bhm83DKSMw",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @TravelVida: Stockholm, Sweden 🇸🇪 https://t.co/jH74hQe8RS",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jan 21 16:52:19 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Hocam future tense'i anlatmana gerek yok biz gelecekten umudu keseli çok oldu.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 7122,
+                "follow_request_sent": false,
+                "followers_count": 324,
+                "following": false,
+                "friends_count": 637,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 2990241334,
+                "id_str": "2990241334",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "tr",
+                "listed_count": 0,
+                "location": "Ankara, Türkiye",
+                "name": "thegreatfurk⚡️but KOVAC",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2990241334/1552656942",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098224759773556736/2Fm2-dZ1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098224759773556736/2Fm2-dZ1_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "obiiirkralll",
+                "statuses_count": 6463,
+                "time_zone": null,
+                "translator_type": "regular",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:09 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 34632273,
+                        "id_str": "34632273",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "𝕸𝖆𝖓𝖙𝖗𝖆𝕸𝖆𝖓𝖙𝖗𝖆",
+                        "screen_name": "KuntoAjiW"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273167330897920,
+            "id_str": "1107273167330897920",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "in",
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 384,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 10:13:43 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107223479722467328",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/ZyXMOWGIRQ"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 236,
+                "favorited": false,
+                "geo": null,
+                "id": 1107223479722467328,
+                "id_str": "1107223479722467328",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "in",
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    110.3681267,
+                                    -7.797804
+                                ],
+                                [
+                                    110.395497,
+                                    -7.797804
+                                ],
+                                [
+                                    110.395497,
+                                    -7.7742774
+                                ],
+                                [
+                                    110.3681267,
+                                    -7.7742774
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "Indonesia",
+                    "country_code": "ID",
+                    "full_name": "Gondokusuman, Indonesia",
+                    "id": "ae188c2b719d333e",
+                    "name": "Gondokusuman",
+                    "place_type": "city",
+                    "url": "https://api.twitter.com/1.1/geo/id/ae188c2b719d333e.json"
+                },
+                "retweet_count": 384,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Kebencian berada dalam satu arena. Brenton membalas dendam atas kejadian di Stockholm yg dilakukan oleh extremists… https://t.co/ZyXMOWGIRQ",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Apr 23 14:55:34 +0000 2009",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "a man with no border in making friends,music and life. | Indonesian | Cp: Hernu (0821 23850556) | Kuntoajiofficial@gmail.com | #Mudabergerak",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "kuntoaji.com",
+                                    "expanded_url": "http://www.kuntoaji.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/n8SjjUq9UW"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 560,
+                    "follow_request_sent": false,
+                    "followers_count": 52994,
+                    "following": false,
+                    "friends_count": 1607,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 34632273,
+                    "id_str": "34632273",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 84,
+                    "location": "",
+                    "name": "𝕸𝖆𝖓𝖙𝖗𝖆𝕸𝖆𝖓𝖙𝖗𝖆",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/34632273/1549479927",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1045313943525183488/wI5e_ZIT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045313943525183488/wI5e_ZIT_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "KuntoAjiW",
+                    "statuses_count": 59907,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/n8SjjUq9UW",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @KuntoAjiW: Kebencian berada dalam satu arena. Brenton membalas dendam atas kejadian di Stockholm yg dilakukan oleh extremists muslim. I…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 10 03:37:02 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "ig: arlitarosafi_ Scorpio 1997",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtu.be/f7YIlIcERfM",
+                                "expanded_url": "https://youtu.be/f7YIlIcERfM",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/gTilJOMEOm"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 137,
+                "follow_request_sent": false,
+                "followers_count": 131,
+                "following": false,
+                "friends_count": 143,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1850206800,
+                "id_str": "1850206800",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Pekalongan",
+                "name": "L I T A",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850206800/1526353807",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1050217144221233152/3N5Vf8t9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050217144221233152/3N5Vf8t9_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "rosafi_arlita",
+                "statuses_count": 2577,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/gTilJOMEOm",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:36 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 888329887064502272,
+                        "id_str": "888329887064502272",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "Vous Suit 🧐 ✨",
+                        "screen_name": "Streme_PM"
+                    },
+                    {
+                        "id": 2855083180,
+                        "id_str": "2855083180",
+                        "indices": [
+                            15,
+                            29
+                        ],
+                        "name": "𝖣𝗈𝗋𝗆𝖾𝗓 𝖡𝗋𝖺𝗏𝖾𝗌 𝖦𝖾𝗇𝗌",
+                        "screen_name": "Dormez_Dormez"
+                    },
+                    {
+                        "id": 1307084203,
+                        "id_str": "1307084203",
+                        "indices": [
+                            30,
+                            43
+                        ],
+                        "name": "Pierre Plottu",
+                        "screen_name": "Pierre_FSoir"
+                    },
+                    {
+                        "id": 316956459,
+                        "id_str": "316956459",
+                        "indices": [
+                            44,
+                            56
+                        ],
+                        "name": "Louis Aliot",
+                        "screen_name": "louis_aliot"
+                    },
+                    {
+                        "id": 402155622,
+                        "id_str": "402155622",
+                        "indices": [
+                            57,
+                            68
+                        ],
+                        "name": "Anne Renaut",
+                        "screen_name": "AnneRenaut"
+                    },
+                    {
+                        "id": 338985020,
+                        "id_str": "338985020",
+                        "indices": [
+                            69,
+                            75
+                        ],
+                        "name": "Agence France-Presse",
+                        "screen_name": "afpfr"
+                    },
+                    {
+                        "id": 78957336,
+                        "id_str": "78957336",
+                        "indices": [
+                            76,
+                            88
+                        ],
+                        "name": "France-Soir",
+                        "screen_name": "france_soir"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273028705095680,
+            "id_str": "1107273028705095680",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Fri Mar 15 12:49:33 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1106537921807613952",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/0Q63WHiEQj"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 2855083180,
+                            "id_str": "2855083180",
+                            "indices": [
+                                0,
+                                14
+                            ],
+                            "name": "𝖣𝗈𝗋𝗆𝖾𝗓 𝖡𝗋𝖺𝗏𝖾𝗌 𝖦𝖾𝗇𝗌",
+                            "screen_name": "Dormez_Dormez"
+                        },
+                        {
+                            "id": 1307084203,
+                            "id_str": "1307084203",
+                            "indices": [
+                                15,
+                                28
+                            ],
+                            "name": "Pierre Plottu",
+                            "screen_name": "Pierre_FSoir"
+                        },
+                        {
+                            "id": 316956459,
+                            "id_str": "316956459",
+                            "indices": [
+                                29,
+                                41
+                            ],
+                            "name": "Louis Aliot",
+                            "screen_name": "louis_aliot"
+                        },
+                        {
+                            "id": 402155622,
+                            "id_str": "402155622",
+                            "indices": [
+                                42,
+                                53
+                            ],
+                            "name": "Anne Renaut",
+                            "screen_name": "AnneRenaut"
+                        },
+                        {
+                            "id": 338985020,
+                            "id_str": "338985020",
+                            "indices": [
+                                54,
+                                60
+                            ],
+                            "name": "Agence France-Presse",
+                            "screen_name": "afpfr"
+                        },
+                        {
+                            "id": 78957336,
+                            "id_str": "78957336",
+                            "indices": [
+                                61,
+                                73
+                            ],
+                            "name": "France-Soir",
+                            "screen_name": "france_soir"
+                        }
+                    ]
+                },
+                "favorite_count": 2,
+                "favorited": false,
+                "geo": null,
+                "id": 1106537921807613952,
+                "id_str": "1106537921807613952",
+                "in_reply_to_screen_name": "Dormez_Dormez",
+                "in_reply_to_status_id": 1106498490669154304,
+                "in_reply_to_status_id_str": "1106498490669154304",
+                "in_reply_to_user_id": 2855083180,
+                "in_reply_to_user_id_str": "2855083180",
+                "is_quote_status": false,
+                "lang": "fr",
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                "text": "@Dormez_Dormez @Pierre_FSoir @louis_aliot @AnneRenaut @afpfr @france_soir comment dire, Henin, c’est ça 👇\nCe pauvre… https://t.co/0Q63WHiEQj",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Jul 21 09:28:44 +0000 2017",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Le poisson pourrit toujours par la tête. #Macron #Castaner #Benalla #Griveaux etc",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 4845,
+                    "follow_request_sent": false,
+                    "followers_count": 304,
+                    "following": false,
+                    "friends_count": 211,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 888329887064502272,
+                    "id_str": "888329887064502272",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "fr",
+                    "listed_count": 3,
+                    "location": "",
+                    "name": "Vous Suit 🧐 ✨",
+                    "notifications": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/888329887064502272/1500728499",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1089144584674967552/ethVI2l7_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089144584674967552/ethVI2l7_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "Streme_PM",
+                    "statuses_count": 4959,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @Streme_PM: @Dormez_Dormez @Pierre_FSoir @louis_aliot @AnneRenaut @afpfr @france_soir comment dire, Henin, c’est ça 👇\nCe pauvre type att…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Jun 23 15:17:49 +0000 2018",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "🇨🇭 Fâcheuse  Facho  Fichée\n\n ↙️@vicval182505",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "precaution.ch",
+                                "expanded_url": "http://precaution.ch",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/GFs2E0E8Xd"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 78472,
+                "follow_request_sent": false,
+                "followers_count": 1767,
+                "following": false,
+                "friends_count": 2990,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1010542446965641216,
+                "id_str": "1010542446965641216",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 2,
+                "location": "513 Crescent Ave \nAvalon, CA 9",
+                "name": "Vix Victoria Valentini 2nd Matricule 478 русофил",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010542446965641216/1539872189",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1010544641534513152/NICXqntQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010544641534513152/NICXqntQ_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "ValentiniBack",
+                "statuses_count": 82044,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/GFs2E0E8Xd",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:35 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 34632273,
+                        "id_str": "34632273",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "𝕸𝖆𝖓𝖙𝖗𝖆𝕸𝖆𝖓𝖙𝖗𝖆",
+                        "screen_name": "KuntoAjiW"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273023114010624,
+            "id_str": "1107273023114010624",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "in",
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 384,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 10:13:43 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107223479722467328",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "url": "https://t.co/ZyXMOWGIRQ"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 236,
+                "favorited": false,
+                "geo": null,
+                "id": 1107223479722467328,
+                "id_str": "1107223479722467328",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "in",
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    110.3681267,
+                                    -7.797804
+                                ],
+                                [
+                                    110.395497,
+                                    -7.797804
+                                ],
+                                [
+                                    110.395497,
+                                    -7.7742774
+                                ],
+                                [
+                                    110.3681267,
+                                    -7.7742774
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "Indonesia",
+                    "country_code": "ID",
+                    "full_name": "Gondokusuman, Indonesia",
+                    "id": "ae188c2b719d333e",
+                    "name": "Gondokusuman",
+                    "place_type": "city",
+                    "url": "https://api.twitter.com/1.1/geo/id/ae188c2b719d333e.json"
+                },
+                "retweet_count": 384,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Kebencian berada dalam satu arena. Brenton membalas dendam atas kejadian di Stockholm yg dilakukan oleh extremists… https://t.co/ZyXMOWGIRQ",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Apr 23 14:55:34 +0000 2009",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "a man with no border in making friends,music and life. | Indonesian | Cp: Hernu (0821 23850556) | Kuntoajiofficial@gmail.com | #Mudabergerak",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "kuntoaji.com",
+                                    "expanded_url": "http://www.kuntoaji.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/n8SjjUq9UW"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 560,
+                    "follow_request_sent": false,
+                    "followers_count": 52994,
+                    "following": false,
+                    "friends_count": 1607,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 34632273,
+                    "id_str": "34632273",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 84,
+                    "location": "",
+                    "name": "𝕸𝖆𝖓𝖙𝖗𝖆𝕸𝖆𝖓𝖙𝖗𝖆",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/34632273/1549479927",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1045313943525183488/wI5e_ZIT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045313943525183488/wI5e_ZIT_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "KuntoAjiW",
+                    "statuses_count": 59907,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/n8SjjUq9UW",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @KuntoAjiW: Kebencian berada dalam satu arena. Brenton membalas dendam atas kejadian di Stockholm yg dilakukan oleh extremists muslim. I…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 04 11:29:44 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "pokonya saya retweet sesuka saya.\nya ini diri saya. i post what i like.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 2249,
+                "follow_request_sent": false,
+                "followers_count": 18,
+                "following": false,
+                "friends_count": 48,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1036939364767432706,
+                "id_str": "1036939364767432706",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Bojonegoro, Jawa Timur",
+                "name": "me is me",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036939364767432706/1537585106",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1102189366187683840/Am8wUNrk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102189366187683840/Am8wUNrk_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "fatmaavias",
+                "statuses_count": 2131,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:34 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/archillect/sta…",
+                        "expanded_url": "https://twitter.com/archillect/status/1106595941459656706",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/VIDbr1sb0o"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 621843252,
+                        "id_str": "621843252",
+                        "indices": [
+                            3,
+                            18
+                        ],
+                        "name": "Justine Danielle #42 Kabataan Partylist",
+                        "screen_name": "perksofjustine"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273019401994240,
+            "id_str": "1107273019401994240",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "quoted_status_id": 1106595941459656706,
+            "quoted_status_id_str": "1106595941459656706",
+            "retweet_count": 1252,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Fri Mar 15 16:45:40 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/archillect/sta…",
+                            "expanded_url": "https://twitter.com/archillect/status/1106595941459656706",
+                            "indices": [
+                                58,
+                                81
+                            ],
+                            "url": "https://t.co/VIDbr1sb0o"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 6759,
+                "favorited": false,
+                "geo": null,
+                "id": 1106597340373106689,
+                "id_str": "1106597340373106689",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Fri Mar 15 16:40:06 +0000 2019",
+                    "entities": {
+                        "hashtags": [],
+                        "media": [
+                            {
+                                "display_url": "pic.twitter.com/LSej3Kb2CU",
+                                "expanded_url": "https://twitter.com/archillect/status/1106595941459656706/photo/1",
+                                "id": 1106595938825617412,
+                                "id_str": "1106595938825617412",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/D1trJLOXQAQF0na.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/D1trJLOXQAQF0na.jpg",
+                                "sizes": {
+                                    "large": {
+                                        "h": 577,
+                                        "resize": "fit",
+                                        "w": 1280
+                                    },
+                                    "medium": {
+                                        "h": 541,
+                                        "resize": "fit",
+                                        "w": 1200
+                                    },
+                                    "small": {
+                                        "h": 307,
+                                        "resize": "fit",
+                                        "w": 680
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "resize": "crop",
+                                        "w": 150
+                                    }
+                                },
+                                "type": "photo",
+                                "url": "https://t.co/LSej3Kb2CU"
+                            }
+                        ],
+                        "symbols": [],
+                        "urls": [],
+                        "user_mentions": []
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "display_url": "pic.twitter.com/LSej3Kb2CU",
+                                "expanded_url": "https://twitter.com/archillect/status/1106595941459656706/photo/1",
+                                "id": 1106595938825617412,
+                                "id_str": "1106595938825617412",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/D1trJLOXQAQF0na.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/D1trJLOXQAQF0na.jpg",
+                                "sizes": {
+                                    "large": {
+                                        "h": 577,
+                                        "resize": "fit",
+                                        "w": 1280
+                                    },
+                                    "medium": {
+                                        "h": 541,
+                                        "resize": "fit",
+                                        "w": 1200
+                                    },
+                                    "small": {
+                                        "h": 307,
+                                        "resize": "fit",
+                                        "w": 680
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "resize": "crop",
+                                        "w": 150
+                                    }
+                                },
+                                "type": "photo",
+                                "url": "https://t.co/LSej3Kb2CU"
+                            }
+                        ]
+                    },
+                    "favorite_count": 9094,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 1106595941459656706,
+                    "id_str": "1106595941459656706",
+                    "in_reply_to_screen_name": null,
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "is_quote_status": false,
+                    "lang": "und",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "possibly_sensitive": false,
+                    "retweet_count": 2833,
+                    "retweeted": false,
+                    "source": "<a href=\"http://machinu.net\" rel=\"nofollow\">Archillect</a>",
+                    "text": "https://t.co/LSej3Kb2CU",
+                    "truncated": false,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Sat Dec 06 14:07:45 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "The ocular engine. \nSources: @archillinks\nhttps://t.co/U7Oh7xumQp",
+                        "entities": {
+                            "description": {
+                                "urls": [
+                                    {
+                                        "display_url": "archillect.com",
+                                        "expanded_url": "http://archillect.com",
+                                        "indices": [
+                                            42,
+                                            65
+                                        ],
+                                        "url": "https://t.co/U7Oh7xumQp"
+                                    }
+                                ]
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "instagram.com/archillect",
+                                        "expanded_url": "http://instagram.com/archillect",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/l6SZrvMcZV"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 10262,
+                        "follow_request_sent": false,
+                        "followers_count": 1240028,
+                        "following": false,
+                        "friends_count": 1,
+                        "geo_enabled": false,
+                        "has_extended_profile": true,
+                        "id": 2907774137,
+                        "id_str": "2907774137",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "en",
+                        "listed_count": 10682,
+                        "location": "Meta",
+                        "name": "Archillect",
+                        "notifications": false,
+                        "profile_background_color": "050505",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2907774137/1418102176",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045579977067024384/S0luKMwQ_normal.jpg",
+                        "profile_link_color": "191919",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "protected": false,
+                        "screen_name": "archillect",
+                        "statuses_count": 217945,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/l6SZrvMcZV",
+                        "utc_offset": null,
+                        "verified": false
+                    }
+                },
+                "quoted_status_id": 1106595941459656706,
+                "quoted_status_id_str": "1106595941459656706",
+                "retweet_count": 1252,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "I love Stockholm Syndrome, the superior 1D song from Four https://t.co/VIDbr1sb0o",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Jun 29 10:02:48 +0000 2012",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "all about mental health, psychology, self-love, fitness, and body positivity. summon me here 💌: perksofjustine@gmail.com",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "about.me/perks",
+                                    "expanded_url": "http://about.me/perks",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/nTgOjZGYTo"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 102028,
+                    "follow_request_sent": false,
+                    "followers_count": 13039,
+                    "following": false,
+                    "friends_count": 642,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 621843252,
+                    "id_str": "621843252",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 255,
+                    "location": "",
+                    "name": "Justine Danielle #42 Kabataan Partylist",
+                    "notifications": false,
+                    "profile_background_color": "B7BEC2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/621843252/1552102696",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1107263987626868736/bgt1sx1g_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107263987626868736/bgt1sx1g_normal.jpg",
+                    "profile_link_color": "FF8295",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "perksofjustine",
+                    "statuses_count": 46167,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/nTgOjZGYTo",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @perksofjustine: I love Stockholm Syndrome, the superior 1D song from Four https://t.co/VIDbr1sb0o",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jan 04 08:25:18 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "your future 👩🏻‍⚕️",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 30328,
+                "follow_request_sent": false,
+                "followers_count": 356,
+                "following": false,
+                "friends_count": 293,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 4707767174,
+                "id_str": "4707767174",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "",
+                "name": "ane",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4707767174/1552100731",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1106714211319574528/85-IXKhc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106714211319574528/85-IXKhc_normal.jpg",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "yourstrulylyra",
+                "statuses_count": 11831,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ]
+}

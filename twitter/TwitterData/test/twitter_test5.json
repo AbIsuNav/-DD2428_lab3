@@ -1,0 +1,2320 @@
+{
+    "search_metadata": {
+        "completed_in": 0.106,
+        "count": 10,
+        "max_id": 1107273188323614720,
+        "max_id_str": "1107273188323614720",
+        "next_results": "?max_id=1107273064176332804&q=swedish&count=10&include_entities=1",
+        "query": "swedish",
+        "refresh_url": "?since_id=1107273188323614720&q=swedish&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:14 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1107273188323614720",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/Nm99H4nSmW"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273188323614720,
+            "id_str": "1107273188323614720",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "porn new sex spray amature porno videos naked kim possible porn woman porn stars nude swedish model nude conkers ba… https://t.co/Nm99H4nSmW",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Oct 03 22:20:00 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": false,
+                "followers_count": 17,
+                "following": false,
+                "friends_count": 77,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 915340687767371776,
+                "id_str": "915340687767371776",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "ru",
+                "listed_count": 0,
+                "location": "",
+                "name": "Alison Bell",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/915340687767371776/1552748078",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1106931773949259776/8oVvqgYk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106931773949259776/8oVvqgYk_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "anastasia777arm",
+                "statuses_count": 1688,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:12 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1058344182610300930,
+                        "id_str": "1058344182610300930",
+                        "indices": [
+                            3,
+                            16
+                        ],
+                        "name": "borabora✈️🏟",
+                        "screen_name": "modooborahae"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273179167367170,
+            "id_str": "1107273179167367170",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "quoted_status_id": 1107258597208027136,
+            "quoted_status_id_str": "1107258597208027136",
+            "retweet_count": 54,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 13:21:02 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107270621661138944",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/VUygqKu4zF"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 107,
+                "favorited": false,
+                "geo": null,
+                "id": 1107270621661138944,
+                "id_str": "1107270621661138944",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Sun Mar 17 12:33:16 +0000 2019",
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "expanded_url": "https://twitter.com/i/web/status/1107258597208027136",
+                                "indices": [
+                                    117,
+                                    140
+                                ],
+                                "url": "https://t.co/b4se5ubfXG"
+                            }
+                        ],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 201,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 1107258597208027136,
+                    "id_str": "1107258597208027136",
+                    "in_reply_to_screen_name": null,
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "is_quote_status": false,
+                    "lang": "ko",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "possibly_sensitive": false,
+                    "retweet_count": 296,
+                    "retweeted": false,
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "text": "🎧 스포티파이 한국 시장 진출 선언!\n\n세계 최대 음원 스트리밍 업체 SPOTIFY\n한국진출 최종단계 협상 중\n\n1조원 규모 국내음원시장 ‘들썩’\n\n스포티파이?\n🇸🇪2008년 스웨덴에서 시작된\n세계 최대 스… https://t.co/b4se5ubfXG",
+                    "truncated": true,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Thu Apr 05 09:56:56 +0000 2018",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "하방증사💜Hi we’re BTS LAB✨방탄연구소💡@BTS_twt 🌸⏩@BTSvoteKing🌀 MAP OF THE SOUL : PERSONA 🗺 #防彈少年團 #防弾少年団 #ARMYPEDIA",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2UWYlfH",
+                                        "expanded_url": "https://bit.ly/2UWYlfH",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/NeDB3XxtEv"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 270,
+                        "follow_request_sent": false,
+                        "followers_count": 16190,
+                        "following": false,
+                        "friends_count": 190,
+                        "geo_enabled": false,
+                        "has_extended_profile": false,
+                        "id": 981833055131254784,
+                        "id_str": "981833055131254784",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "ko",
+                        "listed_count": 27,
+                        "location": "♡BBMA♡States♡Youtube♡Vote♡News",
+                        "name": "BTS 연구소🌸 #PERSONA",
+                        "notifications": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/981833055131254784/1552326097",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1105892991154085888/1z8t8Ly5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105892991154085888/1z8t8Ly5_normal.jpg",
+                        "profile_link_color": "F58EA8",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "protected": false,
+                        "screen_name": "BTSLAB_twt",
+                        "statuses_count": 17418,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/NeDB3XxtEv",
+                        "utc_offset": null,
+                        "verified": false
+                    }
+                },
+                "quoted_status_id": 1107258597208027136,
+                "quoted_status_id_str": "1107258597208027136",
+                "retweet_count": 54,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Oh wow. Spotify is planning to enter the South Korean market. The Swedish based company is in the final stages of n… https://t.co/VUygqKu4zF",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Nov 02 13:04:50 +0000 2018",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "🐨🐹🐱🦄🐥🐯🐰아포방포💜|🇺🇸🇰🇷",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 128,
+                    "follow_request_sent": false,
+                    "followers_count": 4054,
+                    "following": false,
+                    "friends_count": 479,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 1058344182610300930,
+                    "id_str": "1058344182610300930",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 45,
+                    "location": "",
+                    "name": "borabora✈️🏟",
+                    "notifications": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058344182610300930/1552532532",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106027870302994432/qqtN1que_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106027870302994432/qqtN1que_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "modooborahae",
+                    "statuses_count": 10990,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @modooborahae: Oh wow. Spotify is planning to enter the South Korean market. The Swedish based company is in the final stages of negotia…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Sep 06 15:47:07 +0000 2017",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "OT7💞 | fan acc to @bts_twt |\nI love 정호석 and 정국🐿️🐰\n| @GOT7Official |@KARD_Official |@TXT_members|수빈|연준|휴닝카이|OT5💖|",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 146288,
+                "follow_request_sent": false,
+                "followers_count": 332,
+                "following": false,
+                "friends_count": 1833,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 905457340995928065,
+                "id_str": "905457340995928065",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "es",
+                "listed_count": 0,
+                "location": "hopeworld☁️",
+                "name": "레아|chop,chop,kkya,kkya|",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/905457340995928065/1552523727",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105990787765018627/lndlVNqK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105990787765018627/lndlVNqK_normal.jpg",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "_218jhjk",
+                "statuses_count": 106436,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:08 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1058344182610300930,
+                        "id_str": "1058344182610300930",
+                        "indices": [
+                            3,
+                            16
+                        ],
+                        "name": "borabora✈️🏟",
+                        "screen_name": "modooborahae"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273161844772864,
+            "id_str": "1107273161844772864",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "quoted_status_id": 1107258597208027136,
+            "quoted_status_id_str": "1107258597208027136",
+            "retweet_count": 54,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 13:21:02 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107270621661138944",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/VUygqKu4zF"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 107,
+                "favorited": false,
+                "geo": null,
+                "id": 1107270621661138944,
+                "id_str": "1107270621661138944",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Sun Mar 17 12:33:16 +0000 2019",
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "expanded_url": "https://twitter.com/i/web/status/1107258597208027136",
+                                "indices": [
+                                    117,
+                                    140
+                                ],
+                                "url": "https://t.co/b4se5ubfXG"
+                            }
+                        ],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 201,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 1107258597208027136,
+                    "id_str": "1107258597208027136",
+                    "in_reply_to_screen_name": null,
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "is_quote_status": false,
+                    "lang": "ko",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "possibly_sensitive": false,
+                    "retweet_count": 296,
+                    "retweeted": false,
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "text": "🎧 스포티파이 한국 시장 진출 선언!\n\n세계 최대 음원 스트리밍 업체 SPOTIFY\n한국진출 최종단계 협상 중\n\n1조원 규모 국내음원시장 ‘들썩’\n\n스포티파이?\n🇸🇪2008년 스웨덴에서 시작된\n세계 최대 스… https://t.co/b4se5ubfXG",
+                    "truncated": true,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Thu Apr 05 09:56:56 +0000 2018",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "하방증사💜Hi we’re BTS LAB✨방탄연구소💡@BTS_twt 🌸⏩@BTSvoteKing🌀 MAP OF THE SOUL : PERSONA 🗺 #防彈少年團 #防弾少年団 #ARMYPEDIA",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2UWYlfH",
+                                        "expanded_url": "https://bit.ly/2UWYlfH",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/NeDB3XxtEv"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 270,
+                        "follow_request_sent": false,
+                        "followers_count": 16190,
+                        "following": false,
+                        "friends_count": 190,
+                        "geo_enabled": false,
+                        "has_extended_profile": false,
+                        "id": 981833055131254784,
+                        "id_str": "981833055131254784",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "ko",
+                        "listed_count": 27,
+                        "location": "♡BBMA♡States♡Youtube♡Vote♡News",
+                        "name": "BTS 연구소🌸 #PERSONA",
+                        "notifications": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/981833055131254784/1552326097",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1105892991154085888/1z8t8Ly5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105892991154085888/1z8t8Ly5_normal.jpg",
+                        "profile_link_color": "F58EA8",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "protected": false,
+                        "screen_name": "BTSLAB_twt",
+                        "statuses_count": 17418,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/NeDB3XxtEv",
+                        "utc_offset": null,
+                        "verified": false
+                    }
+                },
+                "quoted_status_id": 1107258597208027136,
+                "quoted_status_id_str": "1107258597208027136",
+                "retweet_count": 54,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Oh wow. Spotify is planning to enter the South Korean market. The Swedish based company is in the final stages of n… https://t.co/VUygqKu4zF",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Nov 02 13:04:50 +0000 2018",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "🐨🐹🐱🦄🐥🐯🐰아포방포💜|🇺🇸🇰🇷",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 128,
+                    "follow_request_sent": false,
+                    "followers_count": 4054,
+                    "following": false,
+                    "friends_count": 479,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 1058344182610300930,
+                    "id_str": "1058344182610300930",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 45,
+                    "location": "",
+                    "name": "borabora✈️🏟",
+                    "notifications": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058344182610300930/1552532532",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106027870302994432/qqtN1que_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106027870302994432/qqtN1que_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "modooborahae",
+                    "statuses_count": 10990,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @modooborahae: Oh wow. Spotify is planning to enter the South Korean market. The Swedish based company is in the final stages of negotia…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Apr 18 02:57:10 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I 💜 방탄소년단 LOVE YOURSELF 結 Answer_IDOL_EPIPHANY_WasteItOnMe STREAM,SHAZAM,TWEET,TAG,VOTE F A N A C C O U N T 💜",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 18052,
+                "follow_request_sent": false,
+                "followers_count": 118,
+                "following": false,
+                "friends_count": 236,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 556498573,
+                "id_str": "556498573",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Philippines",
+                "name": "💜 Jo Anna 💜",
+                "notifications": false,
+                "profile_background_color": "0E51B5",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/556498573/1552575626",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1106208458670395392/FJfkxukS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106208458670395392/FJfkxukS_normal.jpg",
+                "profile_link_color": "FFCC4D",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "chellelovesBTS",
+                "statuses_count": 33860,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:31:00 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 4717892303,
+                        "id_str": "4717892303",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "Voice of Europe 🌍",
+                        "screen_name": "V_of_Europe"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273127497736192,
+            "id_str": "1107273127497736192",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 351,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Mar 16 16:59:16 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1106963150904147974",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/z2QvuXCkBK"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 538,
+                "favorited": false,
+                "geo": null,
+                "id": 1106963150904147974,
+                "id_str": "1106963150904147974",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 351,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Meanwhile in Sweden: Terror victim Ebba Åkerlund’s dad to the Swedish PM: “Your help is an insult, I doubt that New… https://t.co/z2QvuXCkBK",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jan 05 20:09:30 +0000 2016",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Conservative news network delivering you breaking news and must-see videos",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "voiceofeurope.com",
+                                    "expanded_url": "http://www.voiceofeurope.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/gJMZofIltt"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 7002,
+                    "follow_request_sent": false,
+                    "followers_count": 234880,
+                    "following": false,
+                    "friends_count": 437,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 4717892303,
+                    "id_str": "4717892303",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "nl",
+                    "listed_count": 2094,
+                    "location": "",
+                    "name": "Voice of Europe 🌍",
+                    "notifications": false,
+                    "profile_background_color": "1B95E0",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4717892303/1528615987",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080543180431519746/JHJnHEE1_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080543180431519746/JHJnHEE1_normal.jpg",
+                    "profile_link_color": "0099B9",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "V_of_Europe",
+                    "statuses_count": 23501,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/gJMZofIltt",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @V_of_Europe: Meanwhile in Sweden: Terror victim Ebba Åkerlund’s dad to the Swedish PM: “Your help is an insult, I doubt that New Zealan…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Sep 26 21:24:50 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Sticks and stones can break my bones but words can never hurt me.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 10011,
+                "follow_request_sent": false,
+                "followers_count": 78,
+                "following": false,
+                "friends_count": 203,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1909289431,
+                "id_str": "1909289431",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 0,
+                "location": "",
+                "name": "Wickedwitch",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909289431/1479117458",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/797739019748704256/UB1MkLv-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/797739019748704256/UB1MkLv-_normal.jpg",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "OutofSweden",
+                "statuses_count": 2176,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:59 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1365423529,
+                        "id_str": "1365423529",
+                        "indices": [
+                            3,
+                            19
+                        ],
+                        "name": "Cesare Sacchetti",
+                        "screen_name": "CesareSacchetti"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273125304197121,
+            "id_str": "1107273125304197121",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "it",
+            "metadata": {
+                "iso_language_code": "it",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 898,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Mar 16 19:48:20 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107005700469870592",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/OkLJjDJ4gP"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1287,
+                "favorited": false,
+                "geo": null,
+                "id": 1107005700469870592,
+                "id_str": "1107005700469870592",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "it",
+                "metadata": {
+                    "iso_language_code": "it",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 898,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Nel frattempo, in Svezia, i genitori delle ragazze svedesi hanno smesso di mandare a scuola le loro figlie perché g… https://t.co/OkLJjDJ4gP",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Apr 19 21:14:33 +0000 2013",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Journalist. Politically incorrect and heretical. Geopolitical analyst for \n@MPWI_en My blog is \"The eye of the needle\" (https://t.co/D56vqq2IcN).",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "lacrunadellago.net",
+                                    "expanded_url": "http://lacrunadellago.net",
+                                    "indices": [
+                                        120,
+                                        143
+                                    ],
+                                    "url": "https://t.co/D56vqq2IcN"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "lacrunadellago.net",
+                                    "expanded_url": "https://lacrunadellago.net/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/Uxtyt4cLOw"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 6340,
+                    "follow_request_sent": false,
+                    "followers_count": 20422,
+                    "following": false,
+                    "friends_count": 212,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 1365423529,
+                    "id_str": "1365423529",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "it",
+                    "listed_count": 100,
+                    "location": "Brussels, Belgium",
+                    "name": "Cesare Sacchetti",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365423529/1532978127",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/735729949026324481/RwCynx-f_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/735729949026324481/RwCynx-f_normal.jpg",
+                    "profile_link_color": "3B94D9",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "CesareSacchetti",
+                    "statuses_count": 13829,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/Uxtyt4cLOw",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @CesareSacchetti: Nel frattempo, in Svezia, i genitori delle ragazze svedesi hanno smesso di mandare a scuola le loro figlie perché gli…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue May 13 11:01:14 +0000 2014",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 3100,
+                "follow_request_sent": false,
+                "followers_count": 88,
+                "following": false,
+                "friends_count": 95,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 2544957299,
+                "id_str": "2544957299",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "it",
+                "listed_count": 9,
+                "location": "",
+                "name": "🙈🙉🙊",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2544957299/1412328556",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/633572620370333696/LHpFynMS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/633572620370333696/LHpFynMS_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "salvops17",
+                "statuses_count": 7748,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:58 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 246463922,
+                        "id_str": "246463922",
+                        "indices": [
+                            3,
+                            12
+                        ],
+                        "name": "Heineken_Magnet",
+                        "screen_name": "Pharuzzy"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273118291296256,
+            "id_str": "1107273118291296256",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 5164,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 10 13:01:15 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1104728924456665088",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/yZEPBKUQRE"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1930,
+                "favorited": false,
+                "geo": null,
+                "id": 1104728924456665088,
+                "id_str": "1104728924456665088",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 5164,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "If you know any body suffering from brain tumour, please refer such a person to UNTH, ENUGU. A team of Swedish doct… https://t.co/yZEPBKUQRE",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Wed Feb 02 20:53:42 +0000 2011",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "•1st Born®\n\n\n\n\n\n\n\n\n\n\n          •Organizer™\n\n\n\n          •Advertiser™\n\n\n\n             •Foodie™\n\n\n\n            •Blogger™\n\n\n\n     •Dental Surgeon®",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "bakesandsips.blogspot.com",
+                                    "expanded_url": "http://bakesandsips.blogspot.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/OUP6VXTfho"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 3742,
+                    "follow_request_sent": false,
+                    "followers_count": 283,
+                    "following": false,
+                    "friends_count": 169,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 246463922,
+                    "id_str": "246463922",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 1,
+                    "location": "Enugu, Nigeria",
+                    "name": "Heineken_Magnet",
+                    "notifications": false,
+                    "profile_background_color": "8B542B",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/246463922/1526116852",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1068648839366750209/NtZgWyBf_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068648839366750209/NtZgWyBf_normal.jpg",
+                    "profile_link_color": "9D582E",
+                    "profile_sidebar_border_color": "D9B17E",
+                    "profile_sidebar_fill_color": "EADEAA",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "Pharuzzy",
+                    "statuses_count": 4818,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/OUP6VXTfho",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @Pharuzzy: If you know any body suffering from brain tumour, please refer such a person to UNTH, ENUGU. A team of Swedish doctors will…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Sep 12 05:18:07 +0000 2011",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "pathetic overthinker",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 9219,
+                "follow_request_sent": false,
+                "followers_count": 1082,
+                "following": false,
+                "friends_count": 734,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 372120525,
+                "id_str": "372120525",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "",
+                "name": "OKE",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/372120525/1552818704",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1101821222285950976/M55iF3OW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101821222285950976/M55iF3OW_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "_okeoghene_",
+                "statuses_count": 6452,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:57 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 4717892303,
+                        "id_str": "4717892303",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "Voice of Europe 🌍",
+                        "screen_name": "V_of_Europe"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273116852633600,
+            "id_str": "1107273116852633600",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 4081,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Fri Mar 15 13:27:06 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "voiceofeurope.com/2019/03/swedis…",
+                            "expanded_url": "https://voiceofeurope.com/2019/03/swedish-parents-keep-their-daughters-home-from-school-after-migrants-kick-beat-and-call-them-whores/",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "url": "https://t.co/OqYtvf8ZeF"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 3854,
+                "favorited": false,
+                "geo": null,
+                "id": 1106547369640898560,
+                "id_str": "1106547369640898560",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 4081,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Swedish parents keep their daughters home from school after migrants kick, beat and call them “whores” https://t.co/OqYtvf8ZeF",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jan 05 20:09:30 +0000 2016",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Conservative news network delivering you breaking news and must-see videos",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "voiceofeurope.com",
+                                    "expanded_url": "http://www.voiceofeurope.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/gJMZofIltt"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 7002,
+                    "follow_request_sent": false,
+                    "followers_count": 234880,
+                    "following": false,
+                    "friends_count": 437,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 4717892303,
+                    "id_str": "4717892303",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "nl",
+                    "listed_count": 2094,
+                    "location": "",
+                    "name": "Voice of Europe 🌍",
+                    "notifications": false,
+                    "profile_background_color": "1B95E0",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4717892303/1528615987",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080543180431519746/JHJnHEE1_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080543180431519746/JHJnHEE1_normal.jpg",
+                    "profile_link_color": "0099B9",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "V_of_Europe",
+                    "statuses_count": 23501,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/gJMZofIltt",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "text": "RT @V_of_Europe: Swedish parents keep their daughters home from school after migrants kick, beat and call them “whores” https://t.co/OqYtvf…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Nov 09 12:47:22 +0000 2012",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "American dad, husband, grandfather, Catholic, USAF vet. former airbn linguist, sr intel analyst, team chief; #Constitution #2A #MAGA 🇺🇸 #WWG1WGA",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 42015,
+                "follow_request_sent": false,
+                "followers_count": 3589,
+                "following": false,
+                "friends_count": 4349,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 936815640,
+                "id_str": "936815640",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 3,
+                "location": "",
+                "name": "Joe",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/936815640/1400791168",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/412816179871625216/B4JDMmnd_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/412816179871625216/B4JDMmnd_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "jrconse",
+                "statuses_count": 34408,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:45 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1058344182610300930,
+                        "id_str": "1058344182610300930",
+                        "indices": [
+                            3,
+                            16
+                        ],
+                        "name": "borabora✈️🏟",
+                        "screen_name": "modooborahae"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273066617421825,
+            "id_str": "1107273066617421825",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "quoted_status_id": 1107258597208027136,
+            "quoted_status_id_str": "1107258597208027136",
+            "retweet_count": 54,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 13:21:02 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107270621661138944",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/VUygqKu4zF"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 107,
+                "favorited": false,
+                "geo": null,
+                "id": 1107270621661138944,
+                "id_str": "1107270621661138944",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Sun Mar 17 12:33:16 +0000 2019",
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "expanded_url": "https://twitter.com/i/web/status/1107258597208027136",
+                                "indices": [
+                                    117,
+                                    140
+                                ],
+                                "url": "https://t.co/b4se5ubfXG"
+                            }
+                        ],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 201,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 1107258597208027136,
+                    "id_str": "1107258597208027136",
+                    "in_reply_to_screen_name": null,
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "is_quote_status": false,
+                    "lang": "ko",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "possibly_sensitive": false,
+                    "retweet_count": 296,
+                    "retweeted": false,
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "text": "🎧 스포티파이 한국 시장 진출 선언!\n\n세계 최대 음원 스트리밍 업체 SPOTIFY\n한국진출 최종단계 협상 중\n\n1조원 규모 국내음원시장 ‘들썩’\n\n스포티파이?\n🇸🇪2008년 스웨덴에서 시작된\n세계 최대 스… https://t.co/b4se5ubfXG",
+                    "truncated": true,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Thu Apr 05 09:56:56 +0000 2018",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "하방증사💜Hi we’re BTS LAB✨방탄연구소💡@BTS_twt 🌸⏩@BTSvoteKing🌀 MAP OF THE SOUL : PERSONA 🗺 #防彈少年團 #防弾少年団 #ARMYPEDIA",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2UWYlfH",
+                                        "expanded_url": "https://bit.ly/2UWYlfH",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/NeDB3XxtEv"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 270,
+                        "follow_request_sent": false,
+                        "followers_count": 16190,
+                        "following": false,
+                        "friends_count": 190,
+                        "geo_enabled": false,
+                        "has_extended_profile": false,
+                        "id": 981833055131254784,
+                        "id_str": "981833055131254784",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "ko",
+                        "listed_count": 27,
+                        "location": "♡BBMA♡States♡Youtube♡Vote♡News",
+                        "name": "BTS 연구소🌸 #PERSONA",
+                        "notifications": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/981833055131254784/1552326097",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1105892991154085888/1z8t8Ly5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105892991154085888/1z8t8Ly5_normal.jpg",
+                        "profile_link_color": "F58EA8",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "protected": false,
+                        "screen_name": "BTSLAB_twt",
+                        "statuses_count": 17418,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/NeDB3XxtEv",
+                        "utc_offset": null,
+                        "verified": false
+                    }
+                },
+                "quoted_status_id": 1107258597208027136,
+                "quoted_status_id_str": "1107258597208027136",
+                "retweet_count": 54,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Oh wow. Spotify is planning to enter the South Korean market. The Swedish based company is in the final stages of n… https://t.co/VUygqKu4zF",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Nov 02 13:04:50 +0000 2018",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "🐨🐹🐱🦄🐥🐯🐰아포방포💜|🇺🇸🇰🇷",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 128,
+                    "follow_request_sent": false,
+                    "followers_count": 4054,
+                    "following": false,
+                    "friends_count": 479,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 1058344182610300930,
+                    "id_str": "1058344182610300930",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 45,
+                    "location": "",
+                    "name": "borabora✈️🏟",
+                    "notifications": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058344182610300930/1552532532",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106027870302994432/qqtN1que_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106027870302994432/qqtN1que_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "modooborahae",
+                    "statuses_count": 10990,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "RT @modooborahae: Oh wow. Spotify is planning to enter the South Korean market. The Swedish based company is in the final stages of negotia…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jul 12 03:04:24 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "mint Yoongi enthusiast 😋",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "bakugooo.com",
+                                "expanded_url": "http://bakugooo.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/JFfmyvCocf"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 150286,
+                "follow_request_sent": false,
+                "followers_count": 566,
+                "following": false,
+                "friends_count": 387,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 752700103798976512,
+                "id_str": "752700103798976512",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 11,
+                "location": "Golden Closet✨",
+                "name": "❄️",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/752700103798976512/1552789011",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1107103348178800641/PkuDIcGJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107103348178800641/PkuDIcGJ_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "moniestear",
+                "statuses_count": 69025,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/JFfmyvCocf",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:45 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 532779460,
+                        "id_str": "532779460",
+                        "indices": [
+                            3,
+                            18
+                        ],
+                        "name": "(((Yair Rosenberg)))",
+                        "screen_name": "Yair_Rosenberg"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273066135076865,
+            "id_str": "1107273066135076865",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "quoted_status_id": 1106981734225195009,
+            "quoted_status_id_str": "1106981734225195009",
+            "retweet_count": 105,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Mar 17 00:59:28 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107083999116251136",
+                            "indices": [
+                                109,
+                                132
+                            ],
+                            "url": "https://t.co/lLwY6uY7g7"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 466,
+                "favorited": false,
+                "geo": null,
+                "id": 1107083999116251136,
+                "id_str": "1107083999116251136",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Sat Mar 16 18:13:06 +0000 2019",
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "expanded_url": "https://twitter.com/i/web/status/1106981734225195009",
+                                "indices": [
+                                    117,
+                                    140
+                                ],
+                                "url": "https://t.co/CsAkjLAgGa"
+                            }
+                        ],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 9582,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 1106981734225195009,
+                    "id_str": "1106981734225195009",
+                    "in_reply_to_screen_name": null,
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "is_quote_status": true,
+                    "lang": "en",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "possibly_sensitive": false,
+                    "quoted_status_id": 1106894880452820994,
+                    "quoted_status_id_str": "1106894880452820994",
+                    "retweet_count": 4410,
+                    "retweeted": false,
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "text": "Imagine if a BBC presenter asked a Jewish guest after the Pittsburgh synagogue shooting, ‘Do you thank your communi… https://t.co/CsAkjLAgGa",
+                    "truncated": true,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Wed Apr 07 16:57:33 +0000 2010",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Columnist, The Intercept. Host, Deconstructed podcast. Presenter, Al Jazeera English TV shows (UpFront & Head to Head). A Brit now based in DC.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "facebook.com/mrmehdihasan",
+                                        "expanded_url": "http://www.facebook.com/mrmehdihasan",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/KdzXP2RNQ4"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 1674,
+                        "follow_request_sent": false,
+                        "followers_count": 585853,
+                        "following": false,
+                        "friends_count": 2294,
+                        "geo_enabled": true,
+                        "has_extended_profile": false,
+                        "id": 130557513,
+                        "id_str": "130557513",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "en",
+                        "listed_count": 5349,
+                        "location": "Washington DC",
+                        "name": "Mehdi Hasan",
+                        "notifications": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130557513/1425672120",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/848875864917979137/C2nZtLkd_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/848875864917979137/C2nZtLkd_normal.jpg",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "protected": false,
+                        "screen_name": "mehdirhasan",
+                        "statuses_count": 146638,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/KdzXP2RNQ4",
+                        "utc_offset": null,
+                        "verified": true
+                    }
+                },
+                "quoted_status_id": 1106981734225195009,
+                "quoted_status_id_str": "1106981734225195009",
+                "retweet_count": 105,
+                "retweeted": false,
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "text": "This victim-blaming happens to Jews all the time in the wake of anti-Semitic attacks, including on the BBC:… https://t.co/lLwY6uY7g7",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Mar 22 03:07:00 +0000 2012",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Senior writer, @tabletmag. Teller of stories, troller of Nazis. Politics, religion, culture. https://t.co/iRbCrbssK3",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "facebook.com/YairRosenberg1",
+                                    "expanded_url": "http://facebook.com/YairRosenberg1",
+                                    "indices": [
+                                        93,
+                                        116
+                                    ],
+                                    "url": "https://t.co/iRbCrbssK3"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "yairrosenberg.com",
+                                    "expanded_url": "http://www.yairrosenberg.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/a3OcIe9hkr"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 17662,
+                    "follow_request_sent": false,
+                    "followers_count": 64956,
+                    "following": false,
+                    "friends_count": 270,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 532779460,
+                    "id_str": "532779460",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 1531,
+                    "location": "yrosenberg@tabletmag.com",
+                    "name": "(((Yair Rosenberg)))",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/532779460/1395069393",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1059896972998524936/0fuvwff6_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059896972998524936/0fuvwff6_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "Yair_Rosenberg",
+                    "statuses_count": 5836,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "http://t.co/a3OcIe9hkr",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "text": "RT @Yair_Rosenberg: This victim-blaming happens to Jews all the time in the wake of anti-Semitic attacks, including on the BBC:\nhttps://t.c…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jul 12 15:15:35 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "world traveller, serial hugger, voracious reader, aesthete who loves to chat",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 411534,
+                "follow_request_sent": false,
+                "followers_count": 1393,
+                "following": false,
+                "friends_count": 880,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 165793361,
+                "id_str": "165793361",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 37,
+                "location": "Bedford",
+                "name": "polly dymock",
+                "notifications": false,
+                "profile_background_color": "FFF04D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1179258879/23-09-06_1204_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179258879/23-09-06_1204_normal.jpg",
+                "profile_link_color": "0099CC",
+                "profile_sidebar_border_color": "FFF8AD",
+                "profile_sidebar_fill_color": "F6FFD1",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "pollsstar",
+                "statuses_count": 450409,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Mar 17 13:30:45 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1365423529,
+                        "id_str": "1365423529",
+                        "indices": [
+                            3,
+                            19
+                        ],
+                        "name": "Cesare Sacchetti",
+                        "screen_name": "CesareSacchetti"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1107273064176332805,
+            "id_str": "1107273064176332805",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "it",
+            "metadata": {
+                "iso_language_code": "it",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 897,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sat Mar 16 19:48:20 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1107005700469870592",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/OkLJjDJ4gP"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1287,
+                "favorited": false,
+                "geo": null,
+                "id": 1107005700469870592,
+                "id_str": "1107005700469870592",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "it",
+                "metadata": {
+                    "iso_language_code": "it",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 897,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "Nel frattempo, in Svezia, i genitori delle ragazze svedesi hanno smesso di mandare a scuola le loro figlie perché g… https://t.co/OkLJjDJ4gP",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Apr 19 21:14:33 +0000 2013",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Journalist. Politically incorrect and heretical. Geopolitical analyst for \n@MPWI_en My blog is \"The eye of the needle\" (https://t.co/D56vqq2IcN).",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "lacrunadellago.net",
+                                    "expanded_url": "http://lacrunadellago.net",
+                                    "indices": [
+                                        120,
+                                        143
+                                    ],
+                                    "url": "https://t.co/D56vqq2IcN"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "lacrunadellago.net",
+                                    "expanded_url": "https://lacrunadellago.net/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/Uxtyt4cLOw"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 6340,
+                    "follow_request_sent": false,
+                    "followers_count": 20422,
+                    "following": false,
+                    "friends_count": 212,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 1365423529,
+                    "id_str": "1365423529",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "it",
+                    "listed_count": 100,
+                    "location": "Brussels, Belgium",
+                    "name": "Cesare Sacchetti",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365423529/1532978127",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/735729949026324481/RwCynx-f_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/735729949026324481/RwCynx-f_normal.jpg",
+                    "profile_link_color": "3B94D9",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "CesareSacchetti",
+                    "statuses_count": 13829,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/Uxtyt4cLOw",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @CesareSacchetti: Nel frattempo, in Svezia, i genitori delle ragazze svedesi hanno smesso di mandare a scuola le loro figlie perché gli…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jul 22 08:28:21 +0000 2010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "è sempre come la prima la volta...viva lo sport!",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 3180,
+                "follow_request_sent": false,
+                "followers_count": 71,
+                "following": false,
+                "friends_count": 937,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 169416963,
+                "id_str": "169416963",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "it",
+                "listed_count": 5,
+                "location": "Napoli",
+                "name": "GML73",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/169416963/1469298068",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1089314062297718785/dxodgjKw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089314062297718785/dxodgjKw_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "gml73",
+                "statuses_count": 4899,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ]
+}

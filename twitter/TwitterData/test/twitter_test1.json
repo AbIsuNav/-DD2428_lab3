@@ -1,0 +1,1889 @@
+{
+    "search_metadata": {
+        "completed_in": 0.068,
+        "count": 10,
+        "max_id": 1103283669429563393,
+        "max_id_str": "1103283669429563393",
+        "next_results": "?max_id=1103283546490372096&q=sweden&count=10&include_entities=1",
+        "query": "sweden",
+        "refresh_url": "?since_id=1103283669429563393&q=sweden&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:19 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            103,
+                            110
+                        ],
+                        "text": "CANWNT"
+                    },
+                    {
+                        "indices": [
+                            111,
+                            122
+                        ],
+                        "text": "AlgarveCup"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "canadasoccer.com/canada-to-face…",
+                        "expanded_url": "https://www.canadasoccer.com/canada-to-face-sweden-for-bronze-at-the-2019-algarve-cup-p162080-preview-1&language=en",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/uugSX4ZQXm"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 103948050,
+                        "id_str": "103948050",
+                        "indices": [
+                            3,
+                            18
+                        ],
+                        "name": "Canada Soccer",
+                        "screen_name": "CanadaSoccerEN"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283669429563393,
+            "id_str": "1103283669429563393",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 33,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Mar 05 17:52:07 +0000 2019",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                83,
+                                90
+                            ],
+                            "text": "CANWNT"
+                        },
+                        {
+                            "indices": [
+                                91,
+                                102
+                            ],
+                            "text": "AlgarveCup"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/zzgAdwOZcC",
+                            "expanded_url": "https://twitter.com/CanadaSoccerEN/status/1102990185170653194/photo/1",
+                            "id": 1102990183396491264,
+                            "id_str": "1102990183396491264",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D06bulgXQAA8NrD.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D06bulgXQAA8NrD.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 361,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/zzgAdwOZcC"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "canadasoccer.com/canada-to-face…",
+                            "expanded_url": "https://www.canadasoccer.com/canada-to-face-sweden-for-bronze-at-the-2019-algarve-cup-p162080-preview-1&language=en",
+                            "indices": [
+                                58,
+                                81
+                            ],
+                            "url": "https://t.co/uugSX4ZQXm"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/zzgAdwOZcC",
+                            "expanded_url": "https://twitter.com/CanadaSoccerEN/status/1102990185170653194/photo/1",
+                            "id": 1102990183396491264,
+                            "id_str": "1102990183396491264",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D06bulgXQAA8NrD.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D06bulgXQAA8NrD.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "medium": {
+                                    "h": 510,
+                                    "resize": "fit",
+                                    "w": 960
+                                },
+                                "small": {
+                                    "h": 361,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/zzgAdwOZcC"
+                        }
+                    ]
+                },
+                "favorite_count": 206,
+                "favorited": false,
+                "geo": null,
+                "id": 1102990185170653194,
+                "id_str": "1102990185170653194",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 33,
+                "retweeted": false,
+                "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                "text": "Canada to face Sweden for Bronze at the 2019 Algarve Cup\n\nhttps://t.co/uugSX4ZQXm\n\n#CANWNT #AlgarveCup https://t.co/zzgAdwOZcC",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Mon Jan 11 19:35:49 +0000 2010",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Official Twitter account of Canada Soccer. Together, we are #CanadaRED. #CANMNT #CANWNT #canm20 #canw20 #canm17 #canw17 #canm15 #canw15 #canFutsal #canPara",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "canadasoccer.com",
+                                    "expanded_url": "http://www.canadasoccer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/bdHtCvlSwl"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 9779,
+                    "follow_request_sent": false,
+                    "followers_count": 129321,
+                    "following": false,
+                    "friends_count": 1652,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 103948050,
+                    "id_str": "103948050",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 1305,
+                    "location": "Ottawa, ON, CANADA",
+                    "name": "Canada Soccer",
+                    "notifications": false,
+                    "profile_background_color": "EBEBEB",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/103948050/1551539480",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/841919218346012672/XVtbmRn8_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/841919218346012672/XVtbmRn8_normal.jpg",
+                    "profile_link_color": "000000",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "F3F3F3",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "CanadaSoccerEN",
+                    "statuses_count": 52012,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/bdHtCvlSwl",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @CanadaSoccerEN: Canada to face Sweden for Bronze at the 2019 Algarve Cup\n\nhttps://t.co/uugSX4ZQXm\n\n#CANWNT #AlgarveCup https://t.co/zzg…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Mar 29 15:59:28 +0000 2011",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 2295,
+                "follow_request_sent": false,
+                "followers_count": 71,
+                "following": false,
+                "friends_count": 172,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 274031213,
+                "id_str": "274031213",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "",
+                "name": "Robin Prince",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/788373112576479232/XFin_GRC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/788373112576479232/XFin_GRC_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "RThornes",
+                "statuses_count": 1057,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:18 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283666699149314,
+            "id_str": "1103283666699149314",
+            "in_reply_to_screen_name": "Sweden_Tips_",
+            "in_reply_to_status_id": 1103273845258153987,
+            "in_reply_to_status_id_str": "1103273845258153987",
+            "in_reply_to_user_id": 4311763114,
+            "in_reply_to_user_id_str": "4311763114",
+            "is_quote_status": false,
+            "lang": "ro",
+            "metadata": {
+                "iso_language_code": "ro",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Penaltı gol iade cepte",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Nov 28 22:45:15 +0000 2015",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 2179,
+                "follow_request_sent": false,
+                "followers_count": 1588,
+                "following": false,
+                "friends_count": 113,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 4311763114,
+                "id_str": "4311763114",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "tr",
+                "listed_count": 21,
+                "location": "Bursa",
+                "name": "Sweden",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4311763114/1548625694",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/742403700723965953/O-O5EEuK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/742403700723965953/O-O5EEuK_normal.jpg",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "Sweden_Tips_",
+                "statuses_count": 4636,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:16 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            52,
+                            58
+                        ],
+                        "text": "IWD19"
+                    },
+                    {
+                        "indices": [
+                            59,
+                            83
+                        ],
+                        "text": "BalanceForBetterIWD2019"
+                    },
+                    {
+                        "indices": [
+                            84,
+                            101
+                        ],
+                        "text": "BalanceforBetter"
+                    },
+                    {
+                        "indices": [
+                            103,
+                            115
+                        ],
+                        "text": "cbrefinland"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283655454216194",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/gnG4Hg7hm8"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283655454216194,
+            "id_str": "1103283655454216194",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "no",
+            "metadata": {
+                "iso_language_code": "no",
+                "result_type": "recent"
+            },
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                17.8560335,
+                                59.1414743
+                            ],
+                            [
+                                18.1829461,
+                                59.1414743
+                            ],
+                            [
+                                18.1829461,
+                                59.2860581
+                            ],
+                            [
+                                17.8560335,
+                                59.2860581
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "Sweden",
+                "country_code": "SE",
+                "full_name": "Huddinge, Sverige",
+                "id": "1c292aa957b8150d",
+                "name": "Huddinge",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/1c292aa957b8150d.json"
+            },
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:05:08 +0000 2019",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                74,
+                                91
+                            ],
+                            "text": "BalanceforBetter"
+                        },
+                        {
+                            "indices": [
+                                93,
+                                101
+                            ],
+                            "text": "IWD2019"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/ReQXBGK8Fr",
+                            "expanded_url": "https://twitter.com/CBRE_UK/status/1103280350917287936/photo/1",
+                            "id": 1103280349080109057,
+                            "id_str": "1103280349080109057",
+                            "indices": [
+                                102,
+                                125
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D0-joc6WwAEPzvO.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D0-joc6WwAEPzvO.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 628,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "medium": {
+                                    "h": 628,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "small": {
+                                    "h": 356,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ReQXBGK8Fr"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/ReQXBGK8Fr",
+                            "expanded_url": "https://twitter.com/CBRE_UK/status/1103280350917287936/photo/1",
+                            "id": 1103280349080109057,
+                            "id_str": "1103280349080109057",
+                            "indices": [
+                                102,
+                                125
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D0-joc6WwAEPzvO.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D0-joc6WwAEPzvO.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 628,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "medium": {
+                                    "h": 628,
+                                    "resize": "fit",
+                                    "w": 1200
+                                },
+                                "small": {
+                                    "h": 356,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ReQXBGK8Fr"
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "favorited": false,
+                "geo": null,
+                "id": 1103280350917287936,
+                "id_str": "1103280350917287936",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "no",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 0,
+                "retweeted": false,
+                "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                "text": "Finland's Krista Ruigendij shares advice for females wanting to get ahead #BalanceforBetter  #IWD2019 https://t.co/ReQXBGK8Fr",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Thu Mar 12 20:04:22 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Helping you make the right real estate choice now, and for the future.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "cbre.co.uk/ourcities",
+                                    "expanded_url": "http://www.cbre.co.uk/ourcities",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/LXXTOpyli0"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 1936,
+                    "follow_request_sent": false,
+                    "followers_count": 28538,
+                    "following": false,
+                    "friends_count": 1446,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 24021788,
+                    "id_str": "24021788",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 375,
+                    "location": "UK",
+                    "name": "CBRE UK",
+                    "notifications": false,
+                    "profile_background_color": "EBEBEB",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24021788/1546873782",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/540908769677295616/ZmHNneOf_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/540908769677295616/ZmHNneOf_normal.png",
+                    "profile_link_color": "006A4D",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "CBRE_UK",
+                    "statuses_count": 5217,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/LXXTOpyli0",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "quoted_status_id": 1103280350917287936,
+            "quoted_status_id_str": "1103280350917287936",
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Vår kollega i Finland ger råd i linje med temat för #IWD19 #BalanceForBetterIWD2019 #BalanceforBetter \n#cbrefinland… https://t.co/gnG4Hg7hm8",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Sep 17 12:52:49 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Vår passion är att leverera marknadsledande fastighetsrådgivning. Här delar vi med oss av vår kunskap, erfarenhet och insikter.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "sverigesfastighetsblogg.se",
+                                "expanded_url": "http://www.sverigesfastighetsblogg.se",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/kdVB8qdTNL"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2387,
+                "follow_request_sent": false,
+                "followers_count": 132,
+                "following": false,
+                "friends_count": 168,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 829006160,
+                "id_str": "829006160",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "sv",
+                "listed_count": 3,
+                "location": "Stockholm, Sverige",
+                "name": "CBRE Sweden",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/829006160/1547545920",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/705676803650662400/bPV-Pgq0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/705676803650662400/bPV-Pgq0_normal.jpg",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "CBRE_Sweden",
+                "statuses_count": 444,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/kdVB8qdTNL",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:15 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 35039490,
+                        "id_str": "35039490",
+                        "indices": [
+                            3,
+                            12
+                        ],
+                        "name": "Mark Dice",
+                        "screen_name": "MarkDice"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283651306049536,
+            "id_str": "1103283651306049536",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "quoted_status_id": 1103159551384305664,
+            "quoted_status_id_str": "1103159551384305664",
+            "retweet_count": 734,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 07:02:18 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103189043741777920",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/HTi8gTgbMV"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 2575,
+                "favorited": false,
+                "geo": null,
+                "id": 1103189043741777920,
+                "id_str": "1103189043741777920",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Wed Mar 06 05:05:07 +0000 2019",
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "expanded_url": "https://twitter.com/i/web/status/1103159551384305664",
+                                "indices": [
+                                    117,
+                                    140
+                                ],
+                                "url": "https://t.co/kD2ByWpl46"
+                            }
+                        ],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 22394,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 1103159551384305664,
+                    "id_str": "1103159551384305664",
+                    "in_reply_to_screen_name": "AOC",
+                    "in_reply_to_status_id": 1103158323174653954,
+                    "in_reply_to_status_id_str": "1103158323174653954",
+                    "in_reply_to_user_id": 138203134,
+                    "in_reply_to_user_id_str": "138203134",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "retweet_count": 3286,
+                    "retweeted": false,
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "text": "The entire PREMISE of a wall is not based in fact.\n\nIt’s based in a racist + non-evidence based trope that immigran… https://t.co/kD2ByWpl46",
+                    "truncated": true,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Wed Apr 28 22:38:40 +0000 2010",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "Congresswoman for NY-14 (Bronx + Queens). In a modern, moral, + wealthy society, no American should be too poor to live. 💯% People-Funded, no corporate PAC $.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "Ocasio2018.com",
+                                        "expanded_url": "http://www.Ocasio2018.com/",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/BYjH4stRnI"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 11528,
+                        "follow_request_sent": false,
+                        "followers_count": 3421338,
+                        "following": false,
+                        "friends_count": 1431,
+                        "geo_enabled": false,
+                        "has_extended_profile": true,
+                        "id": 138203134,
+                        "id_str": "138203134",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "en",
+                        "listed_count": 10466,
+                        "location": "Bronx + Queens, NYC",
+                        "name": "Alexandria Ocasio-Cortez",
+                        "notifications": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "protected": false,
+                        "screen_name": "AOC",
+                        "statuses_count": 7304,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/BYjH4stRnI",
+                        "utc_offset": null,
+                        "verified": true
+                    }
+                },
+                "quoted_status_id": 1103159551384305664,
+                "quoted_status_id_str": "1103159551384305664",
+                "retweet_count": 734,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "If Sweden was on our southern border, filled with millions of blonde-haired blue-eyed people, we would still want t… https://t.co/HTi8gTgbMV",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Apr 24 21:02:52 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Media Analyst. Author of ‘Liberalism: Find a Cure.’ One Million+ YouTube subscribers. Check out my YouTube channel (link below) and I'll see you there.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "YouTube.com/MarkDice",
+                                    "expanded_url": "http://YouTube.com/MarkDice",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/jCpbNU2RAc"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 15388,
+                    "follow_request_sent": false,
+                    "followers_count": 409349,
+                    "following": false,
+                    "friends_count": 298,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 35039490,
+                    "id_str": "35039490",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 3533,
+                    "location": "New Videos Monday - Friday",
+                    "name": "Mark Dice",
+                    "notifications": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35039490/1541232536",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1088899191730954241/FfvepyLV_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088899191730954241/FfvepyLV_normal.jpg",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "MarkDice",
+                    "statuses_count": 3106,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/jCpbNU2RAc",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @MarkDice: If Sweden was on our southern border, filled with millions of blonde-haired blue-eyed people, we would still want to #BuildTh…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Feb 14 02:47:33 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": true,
+                "description": "God, Father, Wife, Children. Conservative. MAGA",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 25859,
+                "follow_request_sent": false,
+                "followers_count": 171,
+                "following": false,
+                "friends_count": 68,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 831334033246318592,
+                "id_str": "831334033246318592",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Lake Hamilton, AR",
+                "name": "Daniel Lunsford",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "daniellunsford8",
+                "statuses_count": 20131,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:12 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 599936319,
+                        "id_str": "599936319",
+                        "indices": [
+                            0,
+                            9
+                        ],
+                        "name": "Jarude",
+                        "screen_name": "RektPapa"
+                    },
+                    {
+                        "id": 2899745870,
+                        "id_str": "2899745870",
+                        "indices": [
+                            10,
+                            22
+                        ],
+                        "name": "The Esports Writer",
+                        "screen_name": "FionnOnFire"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283638542704641,
+            "id_str": "1103283638542704641",
+            "in_reply_to_screen_name": "RektPapa",
+            "in_reply_to_status_id": 1103151354686500865,
+            "in_reply_to_status_id_str": "1103151354686500865",
+            "in_reply_to_user_id": 599936319,
+            "in_reply_to_user_id_str": "599936319",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@RektPapa @FionnOnFire sweden can swallow a molotov",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 15 17:12:50 +0000 2015",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "My dad is in Afrika 🙉  Spongebozz STAN 😫👌  🐃☝️Co-Founder of YIP YIP Gang ☝️🐃",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/channel/UC3fvj…",
+                                "expanded_url": "https://www.youtube.com/channel/UC3fvjVE7uOZ-szaJhBiV1jw/about?disable_polymer=1",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/NQT0Dwnrkd"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2175,
+                "follow_request_sent": false,
+                "followers_count": 69,
+                "following": false,
+                "friends_count": 188,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 3665932479,
+                "id_str": "3665932479",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "da",
+                "listed_count": 2,
+                "location": "Aarhus, Danmark",
+                "name": "Huso",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3665932479/1548968352",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1091077372206596096/z110I1PU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091077372206596096/z110I1PU_normal.jpg",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "_Actualaids",
+                "statuses_count": 4414,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/NQT0Dwnrkd",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:03 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2580864243,
+                        "id_str": "2580864243",
+                        "indices": [
+                            3,
+                            12
+                        ],
+                        "name": "tyler 171",
+                        "screen_name": "levitaet"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283603910348801,
+            "id_str": "1103283603910348801",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 1,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:12:58 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103282323838197760",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/XfAyToX7ot"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 4,
+                "favorited": false,
+                "geo": null,
+                "id": 1103282323838197760,
+                "id_str": "1103282323838197760",
+                "in_reply_to_screen_name": "levitaet",
+                "in_reply_to_status_id": 1103282160579026949,
+                "in_reply_to_status_id_str": "1103282160579026949",
+                "in_reply_to_user_id": 2580864243,
+                "in_reply_to_user_id_str": "2580864243",
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "my most recent one was really nice i miss that one a lot i also liked the one where they came back to sweden becaus… https://t.co/XfAyToX7ot",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Jun 03 17:12:46 +0000 2014",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "+ & i’ll try to save you @JUMPSUlT",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 27031,
+                    "follow_request_sent": false,
+                    "followers_count": 3407,
+                    "following": false,
+                    "friends_count": 276,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 2580864243,
+                    "id_str": "2580864243",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "sv",
+                    "listed_count": 168,
+                    "location": "bb jdptl",
+                    "name": "tyler 171",
+                    "notifications": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2580864243/1551037707",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1099758003480346624/ou2yOLI8_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099758003480346624/ou2yOLI8_normal.jpg",
+                    "profile_link_color": "000000",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "protected": false,
+                    "screen_name": "levitaet",
+                    "statuses_count": 48535,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "RT @levitaet: my most recent one was really nice i miss that one a lot i also liked the one where they came back to sweden because i kept t…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jun 03 22:04:31 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 18312,
+                "follow_request_sent": false,
+                "followers_count": 164,
+                "following": false,
+                "friends_count": 767,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1003397038908891138,
+                "id_str": "1003397038908891138",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Michigan, Tawas City",
+                "name": "Baylie",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1003397038908891138/1548559569",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098057387032891395/D2N62xNc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098057387032891395/D2N62xNc_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Baylie41688908",
+                "statuses_count": 20178,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:01 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            35,
+                            39
+                        ],
+                        "text": "IOC"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283595043635201",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "url": "https://t.co/yEuPD022xI"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283595043635201,
+            "id_str": "1103283595043635201",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+            "text": "\"Flexibility\" the key word for the #IOC ahead of Evaluation Commission visits to 2026 candidates Sweden and Italy.… https://t.co/yEuPD022xI",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Apr 26 13:42:40 +0000 2009",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "husband, father, Longhorn and Gooner. Content Editor at https://t.co/FsrJLptgFn and https://t.co/1Dt6GrOUNT. Tweet about sports and whatever else interests me.",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "aroundtherings.com",
+                                "expanded_url": "http://aroundtherings.com",
+                                "indices": [
+                                    56,
+                                    79
+                                ],
+                                "url": "https://t.co/FsrJLptgFn"
+                            },
+                            {
+                                "display_url": "worldfootballinsider.com",
+                                "expanded_url": "http://worldfootballinsider.com",
+                                "indices": [
+                                    84,
+                                    107
+                                ],
+                                "url": "https://t.co/1Dt6GrOUNT"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 1556,
+                "follow_request_sent": false,
+                "followers_count": 424,
+                "following": false,
+                "friends_count": 2185,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 35466330,
+                "id_str": "35466330",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 27,
+                "location": "",
+                "name": "Gerard Farek",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/35466330/1486056907",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2755624613/418bec5e89c4be2657c91824f64e2a79_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2755624613/418bec5e89c4be2657c91824f64e2a79_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "farekg",
+                "statuses_count": 5013,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:59 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283587002986496",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/72WbZzaPjx"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283587002986496,
+            "id_str": "1103283587002986496",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "? heart girls Twoo washington Teens 2018 Over 18 marry Sex soul mate older Serious city cams wives erotic me online… https://t.co/72WbZzaPjx",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Feb 02 04:18:07 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": false,
+                "followers_count": 0,
+                "following": false,
+                "friends_count": 17,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1091551310703480832,
+                "id_str": "1091551310703480832",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Girls Sex Dating Online Deutsch De Eu🔊",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1103182939129434112/VuHCB4n1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103182939129434112/VuHCB4n1_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Yesenia72879781",
+                "statuses_count": 5,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:54 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1103283563326251013",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/5BapArvaOk"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 2924597913,
+                        "id_str": "2924597913",
+                        "indices": [
+                            0,
+                            10
+                        ],
+                        "name": "Snufkiin",
+                        "screen_name": "ITenelius"
+                    },
+                    {
+                        "id": 2899745870,
+                        "id_str": "2899745870",
+                        "indices": [
+                            11,
+                            23
+                        ],
+                        "name": "The Esports Writer",
+                        "screen_name": "FionnOnFire"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283563326251013,
+            "id_str": "1103283563326251013",
+            "in_reply_to_screen_name": "ITenelius",
+            "in_reply_to_status_id": 1103211695743385600,
+            "in_reply_to_status_id_str": "1103211695743385600",
+            "in_reply_to_user_id": 2924597913,
+            "in_reply_to_user_id_str": "2924597913",
+            "is_quote_status": false,
+            "lang": "da",
+            "metadata": {
+                "iso_language_code": "da",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@ITenelius @FionnOnFire sweden can suck a fat one\n\nDer er et yndigt Land,\nDet staaer med brede Bøge\nNær salten Øste… https://t.co/5BapArvaOk",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 15 17:12:50 +0000 2015",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "My dad is in Afrika 🙉  Spongebozz STAN 😫👌  🐃☝️Co-Founder of YIP YIP Gang ☝️🐃",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "youtube.com/channel/UC3fvj…",
+                                "expanded_url": "https://www.youtube.com/channel/UC3fvjVE7uOZ-szaJhBiV1jw/about?disable_polymer=1",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/NQT0Dwnrkd"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2175,
+                "follow_request_sent": false,
+                "followers_count": 69,
+                "following": false,
+                "friends_count": 188,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 3665932479,
+                "id_str": "3665932479",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "da",
+                "listed_count": 2,
+                "location": "Aarhus, Danmark",
+                "name": "Huso",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3665932479/1548968352",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1091077372206596096/z110I1PU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091077372206596096/z110I1PU_normal.jpg",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "_Actualaids",
+                "statuses_count": 4414,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/NQT0Dwnrkd",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:17:50 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 93577344,
+                        "id_str": "93577344",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "Sharis Cid",
+                        "screen_name": "shariscid"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283546490372097,
+            "id_str": "1103283546490372097",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 2,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Mar 05 15:03:24 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1102947726528962560",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/AGRbO8zbCt"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 64,
+                "favorited": false,
+                "geo": null,
+                "id": 1102947726528962560,
+                "id_str": "1102947726528962560",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "es",
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 2,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "5/3/90 llegaste a mi vida a llenarme de alegría feliz cumpleaños amor mío mi ratona este nuevo año que para ti comi… https://t.co/AGRbO8zbCt",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Mon Nov 30 06:40:41 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Actriz y conductora mexicana manager @xumalin agencia @mafaeam",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 33499,
+                    "follow_request_sent": false,
+                    "followers_count": 91279,
+                    "following": false,
+                    "friends_count": 632,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 93577344,
+                    "id_str": "93577344",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "es",
+                    "listed_count": 252,
+                    "location": "México D.F.",
+                    "name": "Sharis Cid",
+                    "notifications": false,
+                    "profile_background_color": "EBEBEB",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93577344/1492921038",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1094299714999136256/_aERwlU8_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094299714999136256/_aERwlU8_normal.jpg",
+                    "profile_link_color": "990000",
+                    "profile_sidebar_border_color": "DFDFDF",
+                    "profile_sidebar_fill_color": "F3F3F3",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "shariscid",
+                    "statuses_count": 42298,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @shariscid: 5/3/90 llegaste a mi vida a llenarme de alegría feliz cumpleaños amor mío mi ratona este nuevo año que para ti comienza está…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 20 02:36:31 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Someone said: True art crosses all borders, surpasses all languages! #MarioCimarro .. a little #Films #Music & #News",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 104056,
+                "follow_request_sent": false,
+                "followers_count": 564,
+                "following": false,
+                "friends_count": 305,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 205067727,
+                "id_str": "205067727",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en-gb",
+                "listed_count": 56,
+                "location": "Russia",
+                "name": "Olga Ulko",
+                "notifications": false,
+                "profile_background_color": "99FFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/205067727/1485654965",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/915557983660191746/nmPMSxRM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/915557983660191746/nmPMSxRM_normal.jpg",
+                "profile_link_color": "C71585",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "sweden_olga_MC",
+                "statuses_count": 189302,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ]
+}

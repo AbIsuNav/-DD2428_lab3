@@ -1,0 +1,1940 @@
+{
+    "search_metadata": {
+        "completed_in": 0.043,
+        "count": 10,
+        "max_id": 1103283770935963648,
+        "max_id_str": "1103283770935963648",
+        "next_results": "?max_id=1103283678183084031&q=swedish&count=10&include_entities=1",
+        "query": "swedish",
+        "refresh_url": "?since_id=1103283770935963648&q=swedish&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:43 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 74433034,
+                        "id_str": "74433034",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "#GauravPradhan 🇮🇳",
+                        "screen_name": "DrGPradhan"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283770935963648,
+            "id_str": "1103283770935963648",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 125,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:10:59 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103281823432482818",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/a8afHbPjYu"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 176,
+                "favorited": false,
+                "geo": null,
+                "id": 1103281823432482818,
+                "id_str": "1103281823432482818",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 125,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा ...… https://t.co/a8afHbPjYu",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Sep 15 12:23:17 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "© Comments w/o Prejudice #DataScience, #DigitalTransformation, #SMAC Strategist, Global Top 100CIO, Gartner Top10 CIO SA,  Founder @mySWADES Golfer, 4x4, Pilot",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "wakelet.com/@DrGPradhan",
+                                    "expanded_url": "https://wakelet.com/@DrGPradhan",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/U3Q1tVvOpl"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 5959,
+                    "follow_request_sent": false,
+                    "followers_count": 172606,
+                    "following": false,
+                    "friends_count": 4,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 74433034,
+                    "id_str": "74433034",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 643,
+                    "location": "US, India, RSA",
+                    "name": "#GauravPradhan 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/74433034/1551382158",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_link_color": "FA743E",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "DrGPradhan",
+                    "statuses_count": 159154,
+                    "time_zone": null,
+                    "translator_type": "regular",
+                    "url": "https://t.co/U3Q1tVvOpl",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @DrGPradhan: पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा .....मैं रफ…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon May 02 23:36:42 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Breaking News",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 555,
+                "follow_request_sent": false,
+                "followers_count": 18,
+                "following": false,
+                "friends_count": 156,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 727280684738469892,
+                "id_str": "727280684738469892",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Vinay",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/727280684738469892/1551041143",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1099772457924395008/L_DMIaSI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099772457924395008/L_DMIaSI_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "vinbrahm",
+                "statuses_count": 733,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:42 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 3060489838,
+                        "id_str": "3060489838",
+                        "indices": [
+                            0,
+                            12
+                        ],
+                        "name": "Kevin M. Kruse",
+                        "screen_name": "KevinMKruse"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283765168754688,
+            "id_str": "1103283765168754688",
+            "in_reply_to_screen_name": "KevinMKruse",
+            "in_reply_to_status_id": 952579855400480769,
+            "in_reply_to_status_id_str": "952579855400480769",
+            "in_reply_to_user_id": 3060489838,
+            "in_reply_to_user_id_str": "3060489838",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@KevinMKruse Didn't Trump try to promote the idea his family background was Swedish, or is that apocryphal?",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jun 08 18:14:08 +0000 2011",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Grumpy Old Man",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 665,
+                "follow_request_sent": false,
+                "followers_count": 71,
+                "following": false,
+                "friends_count": 133,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 313470433,
+                "id_str": "313470433",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 3,
+                "location": "",
+                "name": "Roy Jacobs",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1387727100/Clooney_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387727100/Clooney_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Panthrdan",
+                "statuses_count": 6797,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:40 +0000 2019",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            118,
+                            138
+                        ],
+                        "text": "RahulKaBaapDallaHai"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 114532603,
+                        "id_str": "114532603",
+                        "indices": [
+                            3,
+                            16
+                        ],
+                        "name": "Sunny",
+                        "screen_name": "beingSunil__"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283757383966720,
+            "id_str": "1103283757383966720",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 19,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 07:40:07 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103198559288115200",
+                            "indices": [
+                                100,
+                                123
+                            ],
+                            "url": "https://t.co/GdrW7LIZua"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 59,
+                "favorited": false,
+                "geo": null,
+                "id": 1103198559288115200,
+                "id_str": "1103198559288115200",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": true,
+                "retweet_count": 19,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Pic 1) Rahul Gandhi before his dads Swedish deal.\nPic 2) Rahul Gandhi after his dads Swedish deal.… https://t.co/GdrW7LIZua",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Mon Feb 15 18:52:14 +0000 2010",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 25416,
+                    "follow_request_sent": false,
+                    "followers_count": 5169,
+                    "following": false,
+                    "friends_count": 110,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 114532603,
+                    "id_str": "114532603",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 30,
+                    "location": "Thane West, Thane",
+                    "name": "Sunny",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/114532603/1551757596",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1102777350545125376/VTRzCFgk_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102777350545125376/VTRzCFgk_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "beingSunil__",
+                    "statuses_count": 30947,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @beingSunil__: Pic 1) Rahul Gandhi before his dads Swedish deal.\nPic 2) Rahul Gandhi after his dads Swedish deal.\n\n#RahulKaBaapDallaHai…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Feb 05 12:58:12 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "???",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 123,
+                "follow_request_sent": false,
+                "followers_count": 112,
+                "following": false,
+                "friends_count": 271,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 828226214787743744,
+                "id_str": "828226214787743744",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Indore, India",
+                "name": "_deadshot🚬",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1100404488903348226/I6OdQCil_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100404488903348226/I6OdQCil_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "UmeshRaghuwan11",
+                "statuses_count": 286,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:31 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 74433034,
+                        "id_str": "74433034",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "#GauravPradhan 🇮🇳",
+                        "screen_name": "DrGPradhan"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283721812099074,
+            "id_str": "1103283721812099074",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 125,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:10:59 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103281823432482818",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/a8afHbPjYu"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 176,
+                "favorited": false,
+                "geo": null,
+                "id": 1103281823432482818,
+                "id_str": "1103281823432482818",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 125,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा ...… https://t.co/a8afHbPjYu",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Sep 15 12:23:17 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "© Comments w/o Prejudice #DataScience, #DigitalTransformation, #SMAC Strategist, Global Top 100CIO, Gartner Top10 CIO SA,  Founder @mySWADES Golfer, 4x4, Pilot",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "wakelet.com/@DrGPradhan",
+                                    "expanded_url": "https://wakelet.com/@DrGPradhan",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/U3Q1tVvOpl"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 5959,
+                    "follow_request_sent": false,
+                    "followers_count": 172606,
+                    "following": false,
+                    "friends_count": 4,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 74433034,
+                    "id_str": "74433034",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 643,
+                    "location": "US, India, RSA",
+                    "name": "#GauravPradhan 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/74433034/1551382158",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_link_color": "FA743E",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "DrGPradhan",
+                    "statuses_count": 159154,
+                    "time_zone": null,
+                    "translator_type": "regular",
+                    "url": "https://t.co/U3Q1tVvOpl",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @DrGPradhan: पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा .....मैं रफ…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Sep 19 11:07:00 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Business as usual",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 37745,
+                "follow_request_sent": false,
+                "followers_count": 135,
+                "following": false,
+                "friends_count": 744,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 75527298,
+                "id_str": "75527298",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 9,
+                "location": "kerala  kochi.india",
+                "name": "prem kumar . s",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/75527298/1475664821",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1144486619/prem_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144486619/prem_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "prems68",
+                "statuses_count": 25348,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:30 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "hindustantimes.com/delhi/rajiv-ga…",
+                        "expanded_url": "https://www.hindustantimes.com/delhi/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "url": "https://t.co/XPsoUTLQp1"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 16404141,
+                        "id_str": "16404141",
+                        "indices": [
+                            3,
+                            18
+                        ],
+                        "name": "Vivek Agnihotri",
+                        "screen_name": "vivekagnihotri"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283717663948801,
+            "id_str": "1103283717663948801",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": true,
+            "retweet_count": 1649,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 07:57:03 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "hindustantimes.com/delhi/rajiv-ga…",
+                            "expanded_url": "https://www.hindustantimes.com/delhi/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                            "indices": [
+                                16,
+                                39
+                            ],
+                            "url": "https://t.co/XPsoUTLQp1"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 3130,
+                "favorited": false,
+                "geo": null,
+                "id": 1103202819899830273,
+                "id_str": "1103202819899830273",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "es",
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 1649,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Original chor.  https://t.co/XPsoUTLQp1",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Mon Sep 22 14:49:26 +0000 2008",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Filmmaker. #BuddhaInATrafficJam  Author. #UrbanNaxals Morally, it's disgusting. Legally, it's questionable. Personally, I like it.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 17276,
+                    "follow_request_sent": false,
+                    "followers_count": 145589,
+                    "following": false,
+                    "friends_count": 300,
+                    "geo_enabled": true,
+                    "has_extended_profile": true,
+                    "id": 16404141,
+                    "id_str": "16404141",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 521,
+                    "location": "Mumbai, India & Himalayas",
+                    "name": "Vivek Agnihotri",
+                    "notifications": false,
+                    "profile_background_color": "BADFCD",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/16404141/1538652279",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1060808320263417856/iPuaj0jU_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060808320263417856/iPuaj0jU_normal.jpg",
+                    "profile_link_color": "FF0000",
+                    "profile_sidebar_border_color": "F2E195",
+                    "profile_sidebar_fill_color": "FFF7CC",
+                    "profile_text_color": "0C3E53",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "vivekagnihotri",
+                    "statuses_count": 74751,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @vivekagnihotri: Original chor.  https://t.co/XPsoUTLQp1",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jun 22 18:19:10 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "To shine in the light is easy, To glow in the darkness, that's mastery....ॐ .͡▹ VOTE BJP  @Narendramodi  🇮🇳 ✨",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "पूराकांग्रेसचोर.com",
+                                "expanded_url": "http://xn--i1b1bhm0frbdb4etcb8b7dwcza.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/zxxBrdpu74"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 8729,
+                "follow_request_sent": false,
+                "followers_count": 1491,
+                "following": false,
+                "friends_count": 1235,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 322148941,
+                "id_str": "322148941",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 6,
+                "location": "भारत - मुंबई  🇮🇳✨",
+                "name": "Mukesh Gajra ❄️",
+                "notifications": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/322148941/1492254646",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/863831332505387019/_ih5AE1e_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/863831332505387019/_ih5AE1e_normal.jpg",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "MukeshGajra",
+                "statuses_count": 25243,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/zxxBrdpu74",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:28 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                        "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "url": "https://t.co/O7hbksngkK"
+                    },
+                    {
+                        "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                        "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/O7hbksngkK"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 147994804,
+                        "id_str": "147994804",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "Rishi Bagree 🇮🇳",
+                        "screen_name": "rishibagree"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283708679913472,
+            "id_str": "1103283708679913472",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 356,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 12:01:49 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                            "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "url": "https://t.co/O7hbksngkK"
+                        },
+                        {
+                            "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                            "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "url": "https://t.co/O7hbksngkK"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 628,
+                "favorited": false,
+                "geo": null,
+                "id": 1103264416420765696,
+                "id_str": "1103264416420765696",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 356,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "1980s slogan :\nगली गली में शोर है , राजीव गांधी चोर है \n https://t.co/O7hbksngkK https://t.co/O7hbksngkK",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue May 25 15:26:33 +0000 2010",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "An ordinary Tax paying citizen",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "facebook.com/rishibagree/",
+                                    "expanded_url": "https://www.facebook.com/rishibagree/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/XVQeGnodWJ"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 56116,
+                    "follow_request_sent": false,
+                    "followers_count": 114586,
+                    "following": false,
+                    "friends_count": 879,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 147994804,
+                    "id_str": "147994804",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 554,
+                    "location": "India , Kolkata",
+                    "name": "Rishi Bagree 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/147994804/1498207380",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/876403525915295750/i8Plin99_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876403525915295750/i8Plin99_normal.jpg",
+                    "profile_link_color": "B35400",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "rishibagree",
+                    "statuses_count": 72541,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/XVQeGnodWJ",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @rishibagree: 1980s slogan :\nगली गली में शोर है , राजीव गांधी चोर है \n https://t.co/O7hbksngkK https://t.co/O7hbksngkK",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Sep 03 17:52:33 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Ee goron ke liye siraf khel hai, par hamar liye, hamar jindagi",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 3277,
+                "follow_request_sent": false,
+                "followers_count": 45,
+                "following": false,
+                "friends_count": 74,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1726176582,
+                "id_str": "1726176582",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Champaner",
+                "name": "Kachraa",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726176582/1551552539",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1089586964356042752/XHK2l_sC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089586964356042752/XHK2l_sC_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "choo_ke_daur",
+                "statuses_count": 12473,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:25 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 74433034,
+                        "id_str": "74433034",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "#GauravPradhan 🇮🇳",
+                        "screen_name": "DrGPradhan"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283693638934533,
+            "id_str": "1103283693638934533",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 125,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:10:59 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103281823432482818",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/a8afHbPjYu"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 176,
+                "favorited": false,
+                "geo": null,
+                "id": 1103281823432482818,
+                "id_str": "1103281823432482818",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 125,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा ...… https://t.co/a8afHbPjYu",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Sep 15 12:23:17 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "© Comments w/o Prejudice #DataScience, #DigitalTransformation, #SMAC Strategist, Global Top 100CIO, Gartner Top10 CIO SA,  Founder @mySWADES Golfer, 4x4, Pilot",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "wakelet.com/@DrGPradhan",
+                                    "expanded_url": "https://wakelet.com/@DrGPradhan",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/U3Q1tVvOpl"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 5959,
+                    "follow_request_sent": false,
+                    "followers_count": 172606,
+                    "following": false,
+                    "friends_count": 4,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 74433034,
+                    "id_str": "74433034",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 643,
+                    "location": "US, India, RSA",
+                    "name": "#GauravPradhan 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/74433034/1551382158",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_link_color": "FA743E",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "DrGPradhan",
+                    "statuses_count": 159154,
+                    "time_zone": null,
+                    "translator_type": "regular",
+                    "url": "https://t.co/U3Q1tVvOpl",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @DrGPradhan: पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा .....मैं रफ…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jul 17 17:04:10 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "⛺🎈🎥🏁wanna know? \nFigure out yourself....",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 34145,
+                "follow_request_sent": false,
+                "followers_count": 189,
+                "following": false,
+                "friends_count": 327,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 2654309574,
+                "id_str": "2654309574",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 8,
+                "location": "Mother India",
+                "name": "🇮🇳🇮🇳🇮🇳Yogi🇮🇳🇮🇳🇮🇳",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2654309574/1531216491",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1016621372322168832/Z2689UIe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016621372322168832/Z2689UIe_normal.jpg",
+                "profile_link_color": "9266CC",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "nikxpat",
+                "statuses_count": 8151,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:24 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 74433034,
+                        "id_str": "74433034",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "#GauravPradhan 🇮🇳",
+                        "screen_name": "DrGPradhan"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283689406914561,
+            "id_str": "1103283689406914561",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 125,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:10:59 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103281823432482818",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/a8afHbPjYu"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 176,
+                "favorited": false,
+                "geo": null,
+                "id": 1103281823432482818,
+                "id_str": "1103281823432482818",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 125,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा ...… https://t.co/a8afHbPjYu",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Sep 15 12:23:17 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "© Comments w/o Prejudice #DataScience, #DigitalTransformation, #SMAC Strategist, Global Top 100CIO, Gartner Top10 CIO SA,  Founder @mySWADES Golfer, 4x4, Pilot",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "wakelet.com/@DrGPradhan",
+                                    "expanded_url": "https://wakelet.com/@DrGPradhan",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/U3Q1tVvOpl"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 5959,
+                    "follow_request_sent": false,
+                    "followers_count": 172606,
+                    "following": false,
+                    "friends_count": 4,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 74433034,
+                    "id_str": "74433034",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 643,
+                    "location": "US, India, RSA",
+                    "name": "#GauravPradhan 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/74433034/1551382158",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_link_color": "FA743E",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "DrGPradhan",
+                    "statuses_count": 159154,
+                    "time_zone": null,
+                    "translator_type": "regular",
+                    "url": "https://t.co/U3Q1tVvOpl",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "RT @DrGPradhan: पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा .....मैं रफ…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Feb 03 17:57:08 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": true,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 899,
+                "follow_request_sent": false,
+                "followers_count": 7,
+                "following": false,
+                "friends_count": 79,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1092119812422025216,
+                "id_str": "1092119812422025216",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Desiberozgaar",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "desiberozgaar",
+                "statuses_count": 585,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:22 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                        "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "url": "https://t.co/O7hbksngkK"
+                    },
+                    {
+                        "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                        "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/O7hbksngkK"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 147994804,
+                        "id_str": "147994804",
+                        "indices": [
+                            3,
+                            15
+                        ],
+                        "name": "Rishi Bagree 🇮🇳",
+                        "screen_name": "rishibagree"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283683216244737,
+            "id_str": "1103283683216244737",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 356,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 12:01:49 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                            "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "url": "https://t.co/O7hbksngkK"
+                        },
+                        {
+                            "display_url": "m.hindustantimes.com/delhi-news/raj…",
+                            "expanded_url": "https://m.hindustantimes.com/delhi-news/rajiv-gandhi-was-middleman-for-swedish-jet-deal-us-cable/story-Mtp0nzytklWu0T342RTBqM.html",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "url": "https://t.co/O7hbksngkK"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 628,
+                "favorited": false,
+                "geo": null,
+                "id": 1103264416420765696,
+                "id_str": "1103264416420765696",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 356,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "1980s slogan :\nगली गली में शोर है , राजीव गांधी चोर है \n https://t.co/O7hbksngkK https://t.co/O7hbksngkK",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue May 25 15:26:33 +0000 2010",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "An ordinary Tax paying citizen",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "facebook.com/rishibagree/",
+                                    "expanded_url": "https://www.facebook.com/rishibagree/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/XVQeGnodWJ"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 56116,
+                    "follow_request_sent": false,
+                    "followers_count": 114586,
+                    "following": false,
+                    "friends_count": 879,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 147994804,
+                    "id_str": "147994804",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 554,
+                    "location": "India , Kolkata",
+                    "name": "Rishi Bagree 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/147994804/1498207380",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/876403525915295750/i8Plin99_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876403525915295750/i8Plin99_normal.jpg",
+                    "profile_link_color": "B35400",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "rishibagree",
+                    "statuses_count": 72541,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/XVQeGnodWJ",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @rishibagree: 1980s slogan :\nगली गली में शोर है , राजीव गांधी चोर है \n https://t.co/O7hbksngkK https://t.co/O7hbksngkK",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu May 17 02:44:18 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": true,
+                "description": "Jack of all trades. Loves stocks, sports, geopolitics, weapons, movies",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 21691,
+                "follow_request_sent": false,
+                "followers_count": 106,
+                "following": false,
+                "friends_count": 698,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 996944468224831488,
+                "id_str": "996944468224831488",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Raj Gupta",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "RajGupt87999322",
+                "statuses_count": 48163,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Mar 06 13:18:21 +0000 2019",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 74433034,
+                        "id_str": "74433034",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "#GauravPradhan 🇮🇳",
+                        "screen_name": "DrGPradhan"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1103283678183084032,
+            "id_str": "1103283678183084032",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "hi",
+            "metadata": {
+                "iso_language_code": "hi",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 125,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Mar 06 13:10:59 +0000 2019",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1103281823432482818",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/a8afHbPjYu"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 176,
+                "favorited": false,
+                "geo": null,
+                "id": 1103281823432482818,
+                "id_str": "1103281823432482818",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "hi",
+                "metadata": {
+                    "iso_language_code": "hi",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 125,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा ...… https://t.co/a8afHbPjYu",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Tue Sep 15 12:23:17 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "© Comments w/o Prejudice #DataScience, #DigitalTransformation, #SMAC Strategist, Global Top 100CIO, Gartner Top10 CIO SA,  Founder @mySWADES Golfer, 4x4, Pilot",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "wakelet.com/@DrGPradhan",
+                                    "expanded_url": "https://wakelet.com/@DrGPradhan",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/U3Q1tVvOpl"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 5959,
+                    "follow_request_sent": false,
+                    "followers_count": 172606,
+                    "following": false,
+                    "friends_count": 4,
+                    "geo_enabled": false,
+                    "has_extended_profile": true,
+                    "id": 74433034,
+                    "id_str": "74433034",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 643,
+                    "location": "US, India, RSA",
+                    "name": "#GauravPradhan 🇮🇳",
+                    "notifications": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/74433034/1551382158",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101202500429012992/95tXOQSR_normal.png",
+                    "profile_link_color": "FA743E",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "DrGPradhan",
+                    "statuses_count": 159154,
+                    "time_zone": null,
+                    "translator_type": "regular",
+                    "url": "https://t.co/U3Q1tVvOpl",
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @DrGPradhan: पिता जी के नाना जी चोर \n\nपिता जी के बही चोर \n\nपिता जी की माता जी चोर \n\nपिता जीकी बीवी चोर  \n\nपिता जी के का बेटा .....मैं रफ…",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Feb 20 14:01:39 +0000 2019",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 382,
+                "follow_request_sent": false,
+                "followers_count": 3,
+                "following": false,
+                "friends_count": 29,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1098221144950349824,
+                "id_str": "1098221144950349824",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Dhrmasthala",
+                "name": "Mithun Kalladka",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098221144950349824/1550683642",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1098272931132653569/XE4J9ffs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098272931132653569/XE4J9ffs_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "KalladkaMithun",
+                "statuses_count": 294,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ]
+}
