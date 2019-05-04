@@ -1,7 +1,8 @@
 import random
 import numpy as np
 import matplotlib.pyplot as plt
-
+import sys
+np.set_printoptions(threshold=sys.maxsize)
 from twiset import TwitterDataset
 
 
@@ -26,7 +27,7 @@ class LogisticRegression(object):
         if theta_check:
             self.FEATURES = len(theta)
             self.theta = theta
-
+        #For Minibatch True : LR = 0.1, Reg = 0.001
         #  ------------------------ Hyperparameters ------------------------ #
         self.LEARNING_RATE = 0.1            # The learning rate.
         self.CONVERGENCE_MARGIN = 1e-8      # The convergence criterion.
@@ -38,9 +39,16 @@ class LogisticRegression(object):
         self.PATIENCE = 5                   # A max number of consequent epochs with monotonously
                                             # increasing validation loss for declaring overfitting
         # ------------------------------------------------------------------ #
+        self.vocab = set()
+
+        self.cat2id = {}
+
+        self.lambda_reg = 0.001
+
+        self.id2cat = {}
 
 
-    def ds2xy(self, ds, mode='bag-of-words'):
+    def ds2xy(self, ds, mode='bag-of-words',flag=False):
         """
         Transforms a dataset to a set of variables X and Y. 
         X contains all datapoints, i.e. its dimensionality is (N, D + 1),
@@ -52,15 +60,34 @@ class LogisticRegression(object):
         """
         if type(ds) != TwitterDataset:
             raise NotImplementedError("Unsupported type of a dataset")
-
-        x, y = [[0]*10]*10, [0]*3 + [1]*3 + [2]*4
         if mode == 'bag-of-words':
-            #
-            # YOUR CODE HERE
-            #
-            pass
+            N = ds.no_of_dp
+            if flag:
+                D = ds.no_of_unique_words + 1
+                self.vocab = list(ds.vocab)
+                self.cat2id = ds.cat2id
+                self.id2cat = ds.id2cat
+            else:
+                D = self.FEATURES
+
+            stoch = random.sample(range(N), N)  # random take datapoints
+
+            x, y = np.zeros((N, D)), np.zeros(N, dtype=int)
+            for i in range(N):
+                x[i][0] = 1 # bias
+                y[i] = ds.inverted_index.get(stoch[i])  # save class of data i
+                txt = ds.data[stoch[i]]  # words in txt
+                for j in range(len(txt)):  # check words in txt
+                    try:
+                        idx = self.vocab.index(txt[j])
+                        x[i][idx+1] += 1
+                    except:
+                        pass
+                #x[i][1:] /= len(txt)
+            #pass
         else:
             raise NotImplementedError("Mode {} is not supported".format(mode))
+        #print(y)
         return x, y
 
 
@@ -78,7 +105,12 @@ class LogisticRegression(object):
         #
         # YOUR CODE HERE
         #
-        return x, y, x, y
+        spl = int(len(x)*0.9) #datapints
+        xt = x[:spl,:]
+        yt = y[:spl]
+        xv = x[spl:,:]
+        yv = y[spl:]
+        return xt, yt, xv, yv
 
 
     def init_params(self, ds):
@@ -90,7 +122,7 @@ class LogisticRegression(object):
 
         # x - Encoding of the data points (as a DATAPOINTS x FEATURES size array).
         # y - # Correct labels for the datapoints.
-        x, y = self.ds2xy(ds, mode=self.MODE)
+        x, y = self.ds2xy(ds, mode=self.MODE,flag=True)
 
         # Number of features
         self.FEATURES = len(x[0])
@@ -111,47 +143,93 @@ class LogisticRegression(object):
         self.gradient = np.zeros((self.FEATURES, self.CLASSES))
 
 
+
     def loss(self, x, y):
         """
         Calculates the loss for the datapoints present in `x` given the labels `y`.
+        datapoint size NxD+1
+        y = size N
+        :return loss
         """
-        #
-        # YOUR CODE HERE
-        #
-        return 0
+        N = len(x)
+        loss = 0.0
+        for i in range(N):
+            loss += -np.log(self.conditional_prob(y[i], x[i]))
+        return loss/N
 
+
+    def conditional_prob_m(self, label, datapoint):
+        """
+        datapoint size NxD+1
+        label size 1
+        Computes the conditional probability P(label|datapoint)
+        softmax()
+        :return 1xN
+        """
+        sum = np.zeros(len(datapoint))
+
+        for i in range(self.CLASSES):
+            sum += np.exp(np.matmul(np.transpose(self.theta[:,i]),np.transpose(datapoint)))
+
+        s = np.exp(np.matmul(np.transpose(self.theta[:,label]),np.transpose(datapoint)))/sum
+
+        return s
 
     def conditional_prob(self, label, datapoint):
         """
+        datapoint size 1xD+1
+        label size 1
         Computes the conditional probability P(label|datapoint)
+        softmax()
+        :return 1xN
         """
-        #
-        # YOUR CODE HERE
-        #
-        return 0.5
+        sum = 0.0
+
+        for i in range(self.CLASSES):
+            sum += np.exp(np.matmul(np.transpose(self.theta[:,i]),datapoint[:]))
+
+        return np.exp(np.matmul(np.transpose(self.theta[:,label]),datapoint[:]))/sum
 
 
-    def compute_gradient_for_all(self):
+    def compute_gradient_for_all(self,y):
         """
         Computes the gradient based on the entire dataset
         (used for batch gradient descent).
+        :return
         """
-        #
-        # YOUR CODE HERE
-        #
+        s = np.dot(np.transpose(self.theta), np.transpose(self.x))
+        # apply softmax activation function
+        p = self.softmax(s)
+        # predicted class is label with highest probability
+        # k = np.argmax(p, axis=0)
+        self.gradient = np.transpose(np.matmul(-((y) - p), self.x) / self.DATAPOINTS)
         pass
 
 
-    def compute_gradient_minibatch(self, minibatch):
+
+
+    def compute_gradient_minibatch(self, minibatch,y):
         """
         Computes the gradient based on a single datapoint
         (used for stochastic gradient descent).
         """
-        #
-        # YOUR CODE HERE
-        #
+        # calculate the output
+        s = np.dot(np.transpose(self.theta), np.transpose(minibatch))
+        # apply softmax activation function
+        p = self.softmax(s)
+        # predicted class is label with highest probability
+        #k = np.argmax(p, axis=0)
+        self.gradient = np.transpose(np.matmul(-(np.transpose(y)-p),minibatch)/self.MINIBATCH_SIZE)
+
         pass
 
+    def softmax(self, out):
+        """
+        Softmax activation function
+        :return probabilities of the sample being in each class
+        """
+        e_out = np.exp(out - np.max(out))
+        return e_out / e_out.sum(axis=0)
 
     def minibatch_fit(self, train_ds):
         """
@@ -162,20 +240,47 @@ class LogisticRegression(object):
         self.init_plot(self.FEATURES)
 
         it = 0
-        #
-        # YOUR CODE HERE
-        #
+        cont = 0
+        batch_epochs = int(self.DATAPOINTS / self.MINIBATCH_SIZE)
+        prev_loss = 0
+        y_onehot = np.zeros((self.CLASSES, self.DATAPOINTS))
+        for i in range(self.DATAPOINTS):
+            y_onehot[self.y[i]][i]=1
         while True:
-            #
-            # YOUR CODE HERE
-            #
-            
+            # random shuffle to the data
+            permutation = np.random.permutation(self.DATAPOINTS)
+            self.x = self.x[permutation, :]
+            self.y = self.y[permutation]
+            y_onehot = y_onehot[:,permutation]
+            # train minibatches
+            for batch in range(batch_epochs):
+                start = batch * self.MINIBATCH_SIZE
+                end = start + self.MINIBATCH_SIZE
+                batch_data = self.x[start:end]
+                tempy = np.transpose(y_onehot)[start:end]
+                self.compute_gradient_minibatch(batch_data,tempy)
+                self.theta = self.theta - self.LEARNING_RATE * (self.gradient + 2 * self.lambda_reg * self.theta)
+
             # Calculate and display training and validation losses
             tr_loss, val_loss = self.loss(self.x, self.y), self.loss(self.xv, self.yv)
+            # early stop
+            if val_loss > prev_loss:
+                if cont >= self.PATIENCE:
+                    break
+                cont += 1
+            else:
+                cont = 0
+            prev_loss = val_loss
+            # down scale learning rate
+            if it%200 == 0:
+                self.LEARNING_RATE *= 0.9
+                print("LEARNING_RATE: ",self.LEARNING_RATE)
+            # update plot
             if it % 10 == 0:
                 self.update_plot(*[tr_loss, val_loss])
-            # REPLACE THE CODE BELOW
-            if random.random() > 0.99:
+
+            # STOP when reached max iterations
+            if it > self.MAX_ITERATIONS:
                 break
             it += 1
 
@@ -187,24 +292,43 @@ class LogisticRegression(object):
         self.init_params(train_ds)
 
         self.init_plot(self.FEATURES)
-
         it = 0
-        #
-        # YOUR CODE HERE
-        #
+        print("FEATURES: ",self.FEATURES)
+        cont = 0
+        prev_loss = 0
+        y_onehot = np.zeros((self.CLASSES, self.DATAPOINTS))
+        for i in range(self.DATAPOINTS):
+            y_onehot[self.y[i]][i] = 1
         while True:
-            #
-            # YOUR CODE HERE
-            #
-            
-            # Calculate and display training and validation losses
+            #shuffle random
+            permutation = np.random.permutation(self.DATAPOINTS)
+            self.x = self.x[permutation,:]
+            self.y = self.y[permutation]
+            y_onehot = y_onehot[:, permutation]
+
+            self.compute_gradient_for_all(y_onehot)
+            self.theta = self.theta - self.LEARNING_RATE * (self.gradient + 2 * self.lambda_reg * self.theta)
             tr_loss, val_loss = self.loss(self.x, self.y), self.loss(self.xv, self.yv)
+
+            # early stop
+            if val_loss > prev_loss:
+                if cont >= self.PATIENCE:
+                    break
+                cont += 1
+            else:
+                cont = 0
+            prev_loss = val_loss
+            if it%100 == 0:
+                self.LEARNING_RATE *= 0.9
+                print("LEARNING_RATE: ",self.LEARNING_RATE)
             self.update_plot(*[tr_loss, val_loss])
 
             # REPLACE THE CODE BELOW
-            if random.random() > 0.99:
+            if it > 1000:#self.MAX_ITERATIONS:
                 break
             it += 1
+        #print("Theta ", self.theta)
+
 
 
     def classify_datapoints(self, test_ds):
@@ -212,18 +336,11 @@ class LogisticRegression(object):
         Classifies datapoints
         """
         x, y = self.ds2xy(test_ds, mode=self.MODE)
-
         confusion = np.zeros((self.CLASSES, self.CLASSES))
-
+        prob = np.transpose(self.softmax(np.dot(np.transpose(self.theta), np.transpose(x)))) # NxK
         for d in range(test_ds.no_of_dp):
-            best_prob, best_class = -float('inf'), None
-            dp = test_ds.data[d]
-            for c in range(self.CLASSES):
-                prob = self.conditional_prob(c, x[d])
-                if prob > best_prob:
-                    best_prob = prob
-                    best_class = c
-            confusion[best_class][self.cat2id[dp.label]] += 1
+            best_class = np.argmax(prob[d])
+            confusion[best_class][y[d]] += 1
 
         print('                       Real class')
         print('                 ', end='')
