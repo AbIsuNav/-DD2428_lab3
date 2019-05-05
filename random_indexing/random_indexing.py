@@ -4,6 +4,8 @@ import time
 import string
 import numpy as np
 from halo import Halo
+import random
+import re
 from sklearn.neighbors import NearestNeighbors
 
 
@@ -74,9 +76,23 @@ class RandomIndexing(object):
     ## @return     A list of words in a cleaned line
     ##
     def clean_line(self, line):
-        # YOUR CODE HERE
-        return []
+        translator = str.maketrans('', '', string.punctuation)
+        line = line.translate(translator)
+        w = list()
+        line = self.removeUnicode(line)
+        line = line.strip()
+        line = ''.join([i for i in line if not i.isdigit()])  # remove digits
+        line = line.split(" ")
+        for i in line:
+            if i is not "":  # removes empty space
+                w.append(i)
+        return w
 
+    def removeUnicode(self, text):
+        """ Removes unicode strings like "\u002c" and "x96"
+        """
+        text = re.sub(r'\x1f', r'', text)
+        return text
 
     ##
     ## @brief      A generator function providing one cleaned line at a time
@@ -110,7 +126,9 @@ class RandomIndexing(object):
     ##             (using the `text_gen` function)
     ##
     def build_vocabulary(self):
-        # YOUR CODE HERE
+        for part in ri.text_gen():
+            for word in part:
+                self.__vocab.add(word)#.lower())
         self.write_vocabulary()
 
 
@@ -167,7 +185,31 @@ class RandomIndexing(object):
     ##         keeping all the cleaned lines in memory as a gigantic list.
     ##
     def create_word_vectors(self):
-        # YOUR CODE HERE
+        """"" CODE HERE """
+        # create RV:
+        self.__rv = dict()
+        self.__cv = dict()
+        for w in self.__vocab:
+            self.__cv[w] = np.zeros(self.__dim,dtype=int)
+            stoch = random.sample(range(self.__dim), self.__non_zero)  # create vector with random indexes size non_zero
+            vector = np.zeros(self.__dim,dtype=int)
+            for i in stoch:
+                vector[i] = random.sample(self.__non_zero_values,1)[0]
+            self.__rv[w] = vector
+
+        for part in ri.text_gen():
+            for i in range(len(part)):
+                w = part[i]#.lower()
+                cv = self.__cv.get(w)  # get cv vector from word
+                iter = 1
+                while (i - iter) >= 0 and iter <= self.__lws:  # sum vectors from left
+                    cv += self.__rv.get(part[i-iter]) #.lower())
+                    iter += 1
+                iter = 1
+                while (i + iter) < len(part) and iter <= self.__rws:
+                    cv += self.__rv.get(part[i+iter]) #.lower())
+                    iter += 1
+                self.__cv[w] = cv  # save back resulting context vector
         pass
 
 
@@ -198,8 +240,22 @@ class RandomIndexing(object):
     ## @return     A list of list of tuples in the format specified in the function description
     ##
     def find_nearest(self, words, k=5, metric='cosine'):
-        # YOUR CODE HERE
-        return [None]
+        neigh = NearestNeighbors(k, algorithm='auto', metric=metric)
+        v = list(self.__cv.values())
+        neigh.fit(v)
+        result = list()
+        key_list = list(self.__cv.keys())
+        for w in words:
+            if w in self.__vocab:  # w.lower()
+                temp = neigh.kneighbors(self.get_word_vector(w), k, return_distance=True)
+                vecinos = []
+                for i in range(1,k):
+                    vecinos.append(key_list[temp[1][0,i]])
+                    vecinos.append(temp[0][0,i])
+                result.append(tuple(vecinos))
+            else:
+                result.append(None)
+        return tuple(result)
 
 
     ##
@@ -210,8 +266,7 @@ class RandomIndexing(object):
     ## @return     The word vector if the word exists in the vocabulary and None otherwise.
     ##
     def get_word_vector(self, word):
-        # YOUR CODE HERE
-        return None
+        return self.__cv.get(word).reshape(1, -1)  #word.lower()
 
 
     ##
@@ -307,7 +362,7 @@ if __name__ == '__main__':
 
     if args.cleaning:
         ri = RandomIndexing(['example.txt'])
-        with open(args.cleaned_output, 'w') as f:
+        with open(args.cleaned_output, 'w',encoding='UTF-8') as f:
             for part in ri.text_gen():
                 f.write("{}\n".format(" ".join(part)))
     else:
